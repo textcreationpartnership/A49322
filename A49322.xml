@@ -1,0 +1,1739 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Lowers, and several other eminent physicians, receipts containing the best and safest method for curing most diseases in humane bodies : very useful for all sorts of people, especially those who live remore [sic] from physicians.</title>
+            <author>Lower, Richard, 1631-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 134 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49322</idno>
+            <idno type="STC">Wing L3309</idno>
+            <idno type="STC">ESTC R30508</idno>
+            <idno type="EEBO-CITATION">11343077</idno>
+            <idno type="OCLC">ocm 11343077</idno>
+            <idno type="VID">47524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Lowers, and several other eminent physicians, receipts containing the best and safest method for curing most diseases in humane bodies : very useful for all sorts of people, especially those who live remore [sic] from physicians.</title>
+                  <author>Lower, Richard, 1631-1691.</author>
+               </titleStmt>
+               <extent>[10], 108 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Nutt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontispiece: portrait of author.</note>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pharmacopoeias --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:47524:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Richard Lower</figDesc>
+                  <head>RICHARD LOWER. M. D. <hi>Aetatis Suae. 55.</hi>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:47524:1" rendition="simple:additions"/>
+            <p>D<hi rend="sup">R.</hi> 
+               <hi>LOWERS,</hi> And ſeveral other Eminent Phyſicians RECEIPTS: CONTAINING The Beſt and Safeſt Method for Curing moſt Diſeaſes in Humane Bodies.</p>
+            <p>Very uſeful for all ſorts of People, eſpecially thoſe who live remore from Phyſicians.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Nutt</hi> near <hi>Stationers-Hall.</hi> 1700.</p>
+            <p>Price Bound 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:47524:2"/>
+            <pb facs="tcp:47524:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>HAving long ſtudied the Noble Science of <hi>Phyſick,</hi> (which is nothing elſe than the knowledge of Preſerving preſent Health, or Reſtoring it when decayed, by expelling Diſeaſes) and through the whole Courſe of many years Practice in <hi>London,</hi> having had equal Succeſs with the moſt celebrated Phyſicians of the Age, and now finding my Bo<g ref="char:EOLhyphen"/>dy almoſt worn out by <hi>Time,</hi> and Liſe dwindling upon the Socket ready to be extinguiſhed, I reſolved to do ſomething, that might be beneficial to my Country, before I took up my Abode in the Cave of Darkneſs and Oblivion.</p>
+            <pb facs="tcp:47524:3"/>
+            <p>Now conſidering that many People lived ſo remote from a Judicious Phy<g ref="char:EOLhyphen"/>ſician: That the Sick Perſon in many Acute Diſeaſes might loſe his Life before a Phyſician could be brought to his Aſſiſtance: That others were not able to give Fees, and conſequent<g ref="char:EOLhyphen"/>ly muſt Dye for want of Money to pay a Doctor: That ſome of the Fa<g ref="char:EOLhyphen"/>culty were dilatory in their proceed<g ref="char:EOLhyphen"/>ings, and that Apothecaries too often in compounding Medicines Slur'd in <hi>Quid</hi> for <hi>Quo,</hi> and made uſe of ſuch Drugs as they had by them, tho' be<g ref="char:EOLhyphen"/>ing <hi>Decayed</hi> were fit for Nothing but to be thrown to the <hi>Dunghill.</hi> Theſe conſiderations, I ſay, put me upon publiſhing this Manual of Preſcripti<g ref="char:EOLhyphen"/>ons, that all Perſons might have Cheap and Effectual Remedies at Hand to Cure their Diſeaſes: That their own Eyes might be Judges of the Goodneſs of the <hi>Drugs,</hi> and their own Cares con<g ref="char:EOLhyphen"/>cern'd in making up their Medicines, without hazarding their Lives upon the Careleſſneſs, or Sordid Intereſts of Apothecaries, who play what Tricks
+<pb facs="tcp:47524:3"/>they pleaſe, and can never be Detect<g ref="char:EOLhyphen"/>ed when the Medicine is compounded.</p>
+            <p>The following Preſcriptions by their own Innate Vertue ſpeaking for them<g ref="char:EOLhyphen"/>ſelves, they ſtand in no need of my Commendations; and therefore all I have to add, is to aſſure the Reader that the Preſcriptions that bear the Name of the late Famous and Incom<g ref="char:EOLhyphen"/>parable Phyſician Dr. <hi>Lower,</hi> were all his Own Receipts, Communicated to me with his Own Hand a little before his <hi>Death,</hi> that ſuch Great Benefits to Mankind might not Die with him, nor fall into Hands where the World could Reap no advantage by them.</p>
+            <p>The other Preſcriptions are the Fruits of their Studies, whoſe Names and Images are ſtampt upon them, and the reſt are My own. They are all the Peculiar Acquiſitions, and Secrets of their Authors, Studiouſly Invented, Diligently Reviſed, and ſo often Re<g ref="char:EOLhyphen"/>formed and Meliorated by long Uſe and repeated Probations, that I could no longer withſtand the Importunities, of thoſe many Judicious Perſons that
+<pb facs="tcp:47524:4"/>deſired the Publication of them, nor Conceal them longer from the Benefit that will redound to the Publick by the Uſe of them. And that they may prove as Beneficial for time to come, as they have formerly done, is the Hearty Deſire of</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+         <div type="index">
+            <pb facs="tcp:47524:4"/>
+            <head>THE INDEX.</head>
+            <list>
+               <head>A.</head>
+               <item>AChes or Pains, <hi>Pag. 31, 40, 43, 77</hi>
+               </item>
+               <item>Acidities of the Stomach, <hi>Pag. 3</hi>
+               </item>
+               <item>Aſthmatick Coughs, <hi>Pag. 2</hi>
+               </item>
+               <item>Almonds of the Ears being down, <hi>Pag. 39</hi>
+               </item>
+               <item>Agues to Cure, <hi>Pag. 26, 37, 99</hi>
+               </item>
+               <item>Aguiſh pains of the Head, <hi>Pag. 76</hi>
+               </item>
+               <item>Apoplexy, <hi>Pag. 9, 78</hi>
+               </item>
+               <item>Appetite to create, <hi>Pag. 17</hi>
+               </item>
+               <item>Aching of Hollow-teeth, <hi>Pag. 3</hi>
+               </item>
+               <item>Aſtringent Clyſter, <hi>Pag. 88</hi>
+               </item>
+               <item>St. <hi>Anthony</hi>'s Fire, <hi>Pag. 104</hi>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>BAlſam of <hi>Lucatellus, Pag. 30</hi>
+               </item>
+               <item>Bloody Flux, <hi>Pag. 18, 26, 41</hi>
+               </item>
+               <item>Blood to ſweeten, <hi>Pag. 39</hi>
+               </item>
+               <item>Blood-ſhot-Eyes, <hi>Pag. 63, 95</hi>
+               </item>
+               <item>Bruiſe, <hi>Pag. 11, 51, 85, 103</hi>
+               </item>
+               <item>Blaſts, <hi>Pag. 23</hi>
+               </item>
+               <item>Biting of Mad Dogs, <hi>Pag. 27</hi>
+               </item>
+               <item>Bleeding at the Noſe to Staunch, <hi>Pag. 28, 75</hi>
+               </item>
+               <item>Burns, <hi>Pag. 30, 48, 97</hi>
+               </item>
+               <item>Bleeding Wounds to ſtop, <hi>Pag. 26</hi>
+               </item>
+               <item>Burns made with Gunpowder, <hi>Pag. 58</hi>
+               </item>
+               <pb facs="tcp:47524:5"/>
+               <item>Balſam for Scalds or Burns, <hi>Pag. 94</hi>
+               </item>
+               <item>Breaſt ſore, <hi>Pag. 40</hi>
+               </item>
+               <item>Back to ſtrengthen, <hi>Pag. 48, 101</hi>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>CAnker in the Mouth, <hi>Pag. 13</hi>
+               </item>
+               <item>Colick, <hi>Pag. 8, 12, 61</hi>
+               </item>
+               <item>Clyſter Anodyne, <hi>Pag. 59</hi>
+               </item>
+               <item>Convulſive Fits, <hi>Pag. 17, 103</hi>
+               </item>
+               <item>Colds, <hi>Pag. 18, 60, 105</hi>
+               </item>
+               <item>Conſumption, <hi>Pag. 23, 49, 80, 88</hi>
+               </item>
+               <item>Cramp, <hi>Pag. 46</hi>
+               </item>
+               <item>Coſtiveneſs, <hi>Pag. 80, 98</hi>
+               </item>
+               <item>Coughs Conſumptive, <hi>Pag. 11, 31</hi>
+               </item>
+               <item>Chalybeate Infuſion, <hi>Pag. 13</hi>
+               </item>
+               <item>Cephalick Plaster, <hi>Pag. 33</hi>
+               </item>
+               <item>Cordial Water, <hi>Pag. 95</hi>
+               </item>
+               <item>Cephalick Powder, <hi>Pag. 9, 98.</hi>
+               </item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>DRink for the Scurvy, <hi>Pag. 84, 89</hi>
+               </item>
+               <item>Drink to be us'd in Fevers, <hi>Pag. 98</hi>
+               </item>
+               <item>Diet Drink effectual in Venereal Accidents, <hi>Pag. 20, 21</hi>
+               </item>
+               <item>Diabetes, or Piſſing-Evil, <hi>Pag. 83</hi>
+               </item>
+               <item>Dead Child to bring away, <hi>Pag. 37</hi>
+               </item>
+               <item>Drink for Young Children, <hi>Pag. 50</hi>
+               </item>
+               <item>
+                  <hi>Diarrhoea, Pag. 5</hi>
+               </item>
+               <item>
+                  <hi>Daffy</hi>'s Elixir, <hi>Pag. 1</hi>
+               </item>
+               <item>Dropſie, <hi>Pag. 24, 38, 78, 84</hi>
+               </item>
+               <item>Delivery to help, <hi>Pag. 65</hi>
+               </item>
+               <item>Digeſtion to cauſe, <hi>Pag. 90</hi>
+               </item>
+               <item>Dulneſs of hearing, <hi>Pag. 57</hi>
+               </item>
+               <item>Defluxions, <hi>Pag. 20, 91</hi>
+               </item>
+            </list>
+            <pb facs="tcp:47524:5"/>
+            <list>
+               <head>E.</head>
+               <item>EYe-water, <hi>Pag. 19, 34, 61</hi>
+               </item>
+               <item>Ears pain'd, <hi>Pag. 45, 82</hi>
+               </item>
+               <item>Emulſion cooling, <hi>Pag. 52</hi>
+               </item>
+               <item>Eyes inflamed, <hi>Pag. 72</hi>
+               </item>
+               <item>Epilepſy, <hi>Pag. 17</hi>
+               </item>
+               <item>Exceſſive ſweating, <hi>Pag. 64</hi>
+               </item>
+               <item>Electuary Stomatick, <hi>Pag. 100</hi>
+               </item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>FAce bruiſed, <hi>Pag. 75</hi>
+               </item>
+               <item>Fevers Spotted, <hi>Pag. 7</hi>
+               </item>
+               <item>Fainting Fits, <hi>Pag. 73</hi>
+               </item>
+               <item>Falling-ſickneſs, <hi>Pag. 24, 61, 106</hi>
+               </item>
+               <item>Face to preſerve, <hi>Pag. 46</hi>
+               </item>
+               <item>Feet-ſtinking, <hi>Pag. 96</hi>
+               </item>
+               <item>Fiſtula, <hi>Pag. 10</hi>
+               </item>
+               <item>Felon, <hi>Pag. 42</hi>
+               </item>
+               <item>Freckles, <hi>Pag. 62</hi>
+               </item>
+               <item>Flegm and Choler to purge, <hi>Pag. 100</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>GAngreen, <hi>Pag. 25, 75</hi>
+               </item>
+               <item>Gravel, <hi>Pag. 32, 52</hi>
+               </item>
+               <item>Gout, <hi>Pag. 40, 56</hi>
+               </item>
+               <item>Gouty pains to appeaſe, <hi>Pag. 77</hi>
+               </item>
+               <item>Gonorrhaea, <hi>Pag. 20, 80</hi>
+               </item>
+               <item>Green-ſickneſs, <hi>Pag. 83</hi>
+               </item>
+               <item>Green Salve to make, <hi>Pag. 93</hi>
+               </item>
+               <item>Giddineſs in the Head, <hi>Pag. 9, 44</hi>
+               </item>
+               <item>Gums Scorbutick, <hi>Pag. 102</hi>
+               </item>
+               <item>
+                  <hi>Green</hi>'s Powder, <hi>Pag. 104</hi>
+               </item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>HEart-burning, <hi>Pag. 3</hi>
+               </item>
+               <item>Haemorroids, <hi>Pag. 47</hi>
+               </item>
+               <item>Hair to encreaſe, <hi>Pag. 61</hi>
+               </item>
+               <item>Hyſterical fits, <hi>Pag. 8, 52, 87, 89</hi>
+               </item>
+               <pb facs="tcp:47524:6"/>
+               <item>Humours-clammy, <hi>Pag. 64</hi>
+               </item>
+               <item>Head to purge, <hi>Pag. 97</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>JAundice-black, <hi>Pag. 65, 105</hi>
+               </item>
+               <item>Jaundice-yellow, <hi>Pag. 4</hi>
+               </item>
+               <item>Impoſthume of the Lungs, <hi>Pag. 44, 71</hi>
+               </item>
+               <item>Itch, <hi>Pag. 15, 81, 102</hi>
+               </item>
+               <item>Italian Plaſter, <hi>Pag. 50</hi>
+               </item>
+               <item>Inflamations to cure, <hi>Pag. 107</hi>
+               </item>
+            </list>
+            <list>
+               <label>K.</label>
+               <item>KIdneys ulcerated, <hi>Pag. 19</hi>
+               </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>LIver to ſtrengthen, <hi>Pag. 25</hi>
+               </item>
+               <item>Looſeneſs, <hi>Pag. 21, 35, 91</hi>
+               </item>
+               <item>Lungs oppreſs'd, <hi>Pag. 77</hi>
+               </item>
+               <item>
+                  <hi>Lower</hi>'s Tincture, <hi>Pag. 1</hi>
+               </item>
+               <item>Lozenges pectoral, <hi>Pag. 10</hi>
+               </item>
+               <item>Lime-water to make, <hi>Pag. 14</hi>
+               </item>
+               <item>Lip-ſalve Sir <hi>Edmund Kings, Pag. 22</hi>
+               </item>
+               <item>Lozenges of Rhubarb, <hi>Pag. 99</hi>
+               </item>
+               <item>Lungs Conſumptive, <hi>Pag. 108</hi>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>MOther-fits, <hi>Pag. 38, 54, 93</hi>
+               </item>
+               <item>Mouth-ſore, <hi>Pag. 13, 86, 92</hi>
+               </item>
+               <item>Milk-water, <hi>Pag. 44</hi>
+               </item>
+               <item>Members bruis'd, <hi>Pag. 101</hi>
+               </item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>NIpples-ſore, <hi>Pag. 35</hi>
+               </item>
+               <item>Noiſe in the Ears, <hi>Pag. 16</hi>
+               </item>
+               <item>Numb Palſie, <hi>Pag. 106</hi>
+               </item>
+               <item>Noſe red and ſhining, <hi>Pag. 49</hi>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>OBſtructions, <hi>Pag. 51</hi>
+               </item>
+               <item>Oil of Toads to make, <hi>Pag. 60</hi>
+               </item>
+               <item>Oil of Charity, <hi>Pag. 24</hi>
+               </item>
+            </list>
+            <pb facs="tcp:47524:6"/>
+            <list>
+               <head>P.</head>
+               <item>PAins in the Side, <hi>Pag. 85</hi>
+               </item>
+               <item>Plague to prevent, <hi>Pag. 55, 59</hi>
+               </item>
+               <item>Pleuriſie, <hi>Pag. 70</hi>
+               </item>
+               <item>Pectoral Syrup, <hi>Pag. 74</hi>
+               </item>
+               <item>Preſervative againſt Infection, <hi>Pag. 86</hi>
+               </item>
+               <item>Pectoral Pills, <hi>Pag. 90</hi>
+               </item>
+               <item>Piles, <hi>Pag. 21, 47, 92</hi>
+               </item>
+               <item>Plaſters for the Feet, <hi>Pag. 13</hi>
+               </item>
+               <item>Plaſter for the Worms, <hi>Pag. 15</hi>
+               </item>
+               <item>
+                  <hi>Paracelſus</hi>'s Plaſter, Dr. <hi>Lower</hi>'s way, <hi>Pag. 42</hi>
+               </item>
+               <item>Palſie, <hi>Pag. 103</hi>
+               </item>
+            </list>
+            <list>
+               <label>Q.</label>
+               <item>Q<g ref="char:V">Ʋ</g>inſey, <hi>Pag. 67</hi>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>R<g ref="char:V">Ʋ</g>pture, <hi>Pag. 54, 68, 73</hi>
+               </item>
+               <item>Rickets, <hi>Pag. 63, 96</hi>
+               </item>
+               <item>Rheumatick Eyes, <hi>Pag. 15, 76, 95, 108</hi>
+               </item>
+               <item>Rheums, <hi>Pag. 20, 82, 91</hi>
+               </item>
+               <item>Rheumatick Pains, <hi>Pag. 7, 31, 40</hi>
+               </item>
+               <item>Running Sores, <hi>Pag. 98</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>SCurvy, <hi>Pag. 41, 53, 68</hi>
+               </item>
+               <item>Scald Head, <hi>Pag. 22</hi>
+               </item>
+               <item>Stomach-ſore, <hi>Pag. 57, 69</hi>
+               </item>
+               <item>Stiches, <hi>Pag. 43, 58</hi>
+               </item>
+               <item>Spitting of Blood, <hi>Pag. 28, 36, 60</hi>
+               </item>
+               <item>Shingles, <hi>Pag. 23, 62</hi>
+               </item>
+               <item>Stoppage at the Stomach, <hi>Pag. 69</hi>
+               </item>
+               <item>Stone, <hi>Pag. 14, 58, 70, 52, 83, 97</hi>
+               </item>
+               <item>Stomach-worms, <hi>Pag. 72</hi>
+               </item>
+               <item>Swellings to diſcuſs and ripen, <hi>Pag. 49, 76, 79, 88.</hi>
+               </item>
+               <item>Strangury, <hi>Pag. 78</hi>
+               </item>
+               <item>Sinews ſhrunk, <hi>Pag. 27, 65</hi>
+               </item>
+               <item>Shortneſs of Breath, <hi>Pag. 2, 79</hi>
+               </item>
+               <pb facs="tcp:47524:7"/>
+               <item>Sharpneſs of <g ref="char:V">Ʋ</g>rine, <hi>Pag. 12</hi>
+               </item>
+               <item>Stone in the Kidnies, <hi>Pag. 32</hi>
+               </item>
+               <item>Syrup of Cinnamon, <hi>Pag. 33</hi>
+               </item>
+               <item>Surfeit-water, <hi>Pag. 43</hi>
+               </item>
+               <item>Sight to ſtrengthen, <hi>Pag. 54</hi>
+               </item>
+               <item>Speck or Film in the Eye, <hi>Pag. 101</hi>
+               </item>
+               <item>Strain, <hi>Pag. 16, 21, 81</hi>
+               </item>
+               <item>Snail-water. <hi>Pag. 87</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>TEneſmus, Pag. 66</hi>
+               </item>
+               <item>Throat-ſore, <hi>Pag. 46, 90, 106</hi>
+               </item>
+               <item>Teeth to whiten, <hi>Pag. 3</hi>
+               </item>
+               <item>Teeth to faſten, <hi>Pag. 4, 52, 102</hi>
+               </item>
+               <item>Tincture Stomatick, <hi>Pag. 45</hi>
+               </item>
+               <item>Tetter, <hi>Pag. 57</hi>
+               </item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>VOmit to make, <hi>Pag. 93</hi>
+               </item>
+               <item>
+                  <g ref="char:V">Ʋ</g>lcers, <hi>Pag. 10, 36</hi>
+               </item>
+               <item>
+                  <g ref="char:V">Ʋ</g>lcer in the Lungs, <hi>Pag. 19</hi>
+               </item>
+               <item>Vomiting to ſtop, <hi>Pag. 35, 47</hi>
+               </item>
+               <item>Vapors Hyſterical, <hi>Pag. 47</hi>
+               </item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>WHite Salve to make, <hi>Pag. 68</hi>
+               </item>
+               <item>Worms to kill, <hi>Pag. 74, 94, 107</hi>
+               </item>
+               <item>Watry Humours, <hi>Pag. 86</hi>
+               </item>
+               <item>Wind to expel, <hi>Pag. 95</hi>
+               </item>
+               <item>Whitlow, <hi>Pag. 9</hi>
+               </item>
+               <item>Wen, <hi>Pag. 18</hi>
+               </item>
+               <item>Web in the Eye, <hi>Pag. 27</hi>
+               </item>
+               <item>Wounds to cure, <hi>Pag. 53</hi>
+               </item>
+               <item>Weakneſs of the Back, <hi>Pag. 55</hi>
+               </item>
+               <item>Whites, <hi>Pag. 100</hi>
+               </item>
+               <item>Water to clear the Eye-ſight, <hi>Pag. 61</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47524:7"/>
+            <head>Dr. <hi>LOWER</hi>'s, And ſeveral other <hi>Eminent Phyſicians</hi> RECEIPTS.</head>
+            <div type="part">
+               <head>To make Dr. <hi>Lower</hi>'s Tincture, common<g ref="char:EOLhyphen"/>ly call'd <hi>Daffy</hi>'s <hi>Elixir.</hi>
+               </head>
+               <p>TAKE of the beſt Senna, Guiacum, Liquoriſh ſlic'd ſmall, Aniſeeds, Coriander-ſeeds and Elecampane-Root, of each half an Ounce; Raiſins of the Sun ſton'd a quarter of a pound; Let them all be bruis'd, and put into a quart of the beſt <hi>Aqua vitae.</hi> The Doſe is 2 or 3
+<pb n="2" facs="tcp:47524:8"/>Ounces. It gives preſent eaſe in the Co<g ref="char:EOLhyphen"/>lick.</p>
+            </div>
+            <div type="part">
+               <head>An excellent Medicine for Aſthmatick Coughs, by Dr. <hi>Lower.</hi>
+               </head>
+               <p>Take Conſerve of Hips 2 Ounces, Flow<g ref="char:EOLhyphen"/>er of Brimſtone one Ounce, Balſam of Sul<g ref="char:EOLhyphen"/>phur aniſated 40 Drops; moiſten it with a ſufficient quantity of Syrup of Marſh<g ref="char:EOLhyphen"/>mallows: Take about the bigneſs of a Nut<g ref="char:EOLhyphen"/>meg of it at any time.</p>
+            </div>
+            <div type="part">
+               <head>For ſhortneſs of Breath, by Dr. <hi>G—s.</hi>
+               </head>
+               <p>Take of Orris root powder'd 2 Drams, make it into a maſs with a piece of Squill bruis'd, of which make about 20 Pills, and take 4 every morning, and at Five in the Af<g ref="char:EOLhyphen"/>ternoon, drinking a Draught of the fol<g ref="char:EOLhyphen"/>lowing Apozem after them. Take of the five Opening Roots of each an Ounce, of Maiden-hair and Speedwell, of each an handful, of Coriander-ſeeds a quarter of an Ounce, boil them in 3 pints of Water to a quart, then ſtrain it, and add to it Tincture of Saffron an Ounce, Syrup of Horehound an Ounce and an half.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:47524:8"/>
+               <head>How to make the King of <hi>France</hi>'s Teeth-Powder, famous for making the Teeth white, and preſerving them from the Scurvy.</head>
+               <p>Take of Chalk and pebble Stones burnt, of each an Ounce, Myrrh, Bole-armoni<g ref="char:EOLhyphen"/>ack and Dragon's-blood, of each half an Ounce, of Ammoniacum and Cuttle-bones of each 3 Drams; Let them be all finely pouder'd.</p>
+            </div>
+            <div type="part">
+               <head>For the Heart-burning, or Acidity of the Stomach.</head>
+               <p>Take of the whiteſt Chalk 2 Ounces, of Crabs-eyes and Bole-Armoniack of each half an Ounce, of Oil of Nutmegs 10 Drops, pouder them, and take a quarter of an Ounce at a time, in a Draught of Milk and Water.</p>
+            </div>
+            <div type="part">
+               <head>A very good Remedy for an hollow, aching Tooth, by Dr. <hi>C</hi>—n.</head>
+               <p>Take of Camphire and Crude Opium of each four Grains, make them into 3 Pills, with as much Oil of Cloves as is conveni<g ref="char:EOLhyphen"/>ent, roll them in Cotton, lay them to the aching Tooth, and they will give you eaſe in an Inſtant.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:47524:9"/>
+               <head>To faſten looſe Teeth, and prevent the Tooth-ach.</head>
+               <p>Take Myrrh and Japan-earth, of each two Drams, bruiſe and boil them in a pint of Claret, to the conſumption of the third part, then ſtrain it, and let it ſettle, waſh your mouth with the Cleareſt every morning. If your Teeth are very foul, take a rag and dip it in Spirit of Vitriol, and rub your Teeth with it, waſhing your mouth with Water after it.</p>
+            </div>
+            <div type="part">
+               <head>A Method to cure the Jaundice, which has been try'd with great ſucceſs.</head>
+               <p>In the firſt place give the Patient a Vo<g ref="char:EOLhyphen"/>mit of the Infuſion of <hi>Crocus Metallorum,</hi> and Oxymel of Squills, according to his Conſtitution, then take of Aloes and Rhu<g ref="char:EOLhyphen"/>barb of each 2 Scruples, of prepar'd Steel one Dram, Tartar vitriolated one Scruple, make Pills, with Syrup of Horehound, of which give 4 every night.</p>
+               <p>Take of the Roots of Turmerick half an Ounce, tops of Centaury the leſſer, Ro<g ref="char:EOLhyphen"/>man Wormwood and Horehound of each an handful, Roots of the greater Nettle, 2 Ounces, boil them in 3 pints of Water to the conſumption of half; when it is al<g ref="char:EOLhyphen"/>moſt
+<pb n="5" facs="tcp:47524:9"/>boil'd enough, add to it Juniper ber<g ref="char:EOLhyphen"/>ries an Ounce, Yellow Saunders and Gooſe Dung made into a Nodulus, of each three Drams, Saffron 2 Scruples, Rheniſh-wine a pint; when it is boiled enough ſtrain it, and add to it Compound-water of Snails and Earthworms, of each 2 Ounces. Take 3 Ounces of it, after each time of taking the following Electuary.</p>
+               <p>Take of the Conſerve of Sea wormwood, of the outward Rind of Orange-peels, of each 2 Ounces, of <hi>Species Diacurcumae,</hi> and prepar'd Steel, of each 3 Drams; of pre<g ref="char:EOLhyphen"/>par'd Earthworms and Rhubarb of each 2 Drams; Flowers of Sal Armoniack, and Salt of Amber, of each 2 Scruples; of Saf<g ref="char:EOLhyphen"/>fron powder'd one Scruple, with a ſuffici<g ref="char:EOLhyphen"/>ent quantity of Syrup of Horehound; make an Electuary, of which take the quantity of a large Nut-Meg twice a day, drinking 3 Ounces of the bitter Tin<g ref="char:EOLhyphen"/>cture after it.</p>
+            </div>
+            <div type="part">
+               <head>For a Diarrhoea, or Looſeneſs.</head>
+               <p>It is better to Carry off the corrupt Hu<g ref="char:EOLhyphen"/>mour that is a float, by purging; than to check it by Aſtringents, unleſs the extream weakneſs of the Patient indicates the con<g ref="char:EOLhyphen"/>trary. In the beginning of the Looſeneſs, give this Bolus over night,</p>
+               <pb n="6" facs="tcp:47524:10"/>
+               <p>Take of <hi>Mercurius Dulcis</hi> one Scruple, of Rhubarb finely powder'd 2 Scruples, make it into a Bolus, with a ſufficient quan<g ref="char:EOLhyphen"/>tity of Syrup of Dry'd Roſes: If the Pa<g ref="char:EOLhyphen"/>tient is but weak, give no more than half a Scruple of <hi>Mercurius Dulcis;</hi> If this does not put a ſtop to the Looſneſs, let the Patient take this Vomit.</p>
+               <p>Take of White Vitriol a Dram and half Oxymel of Squills 2 Ounces, mix them, and give a ſpoonful at a time in a Draught of Carduus-water, give more or leſs accor<g ref="char:EOLhyphen"/>ding as it works: But if through weakneſs the Patient cannot bear purging, then give him this Bolus. Take of torrified Rhubarb half a Scruple, make it into a Bolus with half a dram of <hi>Diaſcordium</hi> and Venice Treacle, give it at night with 3 Spoonfuls of this Julep after it, and ſo every 6 hours. Take of Mint, and ſmall Cinnamon-water hordeated of each 4 Ounces, of Species of Hyacinth, red Coral, and Bole-Armoniack of each one Dram, Syrup of Quinces an Ounce and an half; Cliſters of Milk, with <hi>Diaſcordium,</hi> are alſo very good. Take of Burnt Hartshorn 2 Ounces, boil it in two Quarts of water to one, with a Cruſt of Bread, and ſome Cinnamon, ſtrain it, and add to it ſmall Cinnamon-water 2 ounces, and as much Sugar as will ſweeten it, Let it be the Patients ordinary Drink.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:47524:10"/>
+               <head>A powerful Remedy for Rheumatick Pains, By Dr. <hi>Lower.</hi>
+               </head>
+               <p>Take of Senna, Hermodacts, Turpethum and Scammony, of each 2 Drams, of Ze<g ref="char:EOLhyphen"/>doary, Ginger and Cubebs, of each a Dram, mix them, and let them be pow<g ref="char:EOLhyphen"/>der'd; the Doſe is from one Dram to two, in any convenient Vehicle. Let the parts affected be anointed with this Liniment. Take Palm Oil 2 Ounces, Oil of Turpen<g ref="char:EOLhyphen"/>tine one Ounce, Volatile Salt of Harts<g ref="char:EOLhyphen"/>horn 2 Drams; afterwards lay on a Pla<g ref="char:EOLhyphen"/>ſter of <hi>Mucilaginibus.</hi> Some that have been very much troubled with Rheumatick Pains, have, by the taking of Spirit of Hartſhorn in Compound-water of Earth-worms found mighty benefit.</p>
+            </div>
+            <div type="part">
+               <head>An excellent Medicine for the Spotted, and all other malignant Fevers, pre<g ref="char:EOLhyphen"/>ſcrib'd by Dr. <hi>B—re.</hi>
+               </head>
+               <p>Take of the beſt Virginia Snake-Weed, and Root of Contraryerva finely powder'd, of each half a Scruple, Goa-ſtone half a Scruple, Caſtor and Camphire of each 5 Grains, make them into a Bolus, with a Scruple of Venice Treacle, and as much Syrup of Peony as is ſufficient; to repeat
+<pb n="8" facs="tcp:47524:11"/>the Bolus every ſix hours, drinking a Draught of the following Julep after it.</p>
+               <p>Take of Scorzonera-roots 2 Ounces, But<g ref="char:EOLhyphen"/>ter-bur Roots half an Ounce, of Balm and Scordium, of each an handful, of Corian<g ref="char:EOLhyphen"/>der-ſeeds 3 Drams, of Liquoriſh, Figs and Raiſins, of each an Ounce; let them boil in three Pints of Conduit-water to a quart, then ſtrain it, and add to it compound Peo<g ref="char:EOLhyphen"/>ny-water 3 Ounces, Syrup of Rasberries an Ounce and an half. Let it be the Patient's ordinary Drink.</p>
+            </div>
+            <div type="part">
+               <head>A Medicine for the Colick, which not only gives eaſe in the moſt violent Fits, but alſo being often us'd prevents their returning.</head>
+               <p>Take of the beſt Manna, and Oil of Sweet-Almonds, of each an Ounce and an half, of Chamomil Flowers boil'd in Poſſet-Drink an handful, let the Poſſet-Drink be ſtrain'd from the Flowers and mingled very well with the Oil of Almonds and Manna; let the Patient take it Three days ſucceſ<g ref="char:EOLhyphen"/>ſively, and afterwards every third day for a Fortnight.</p>
+            </div>
+            <div type="part">
+               <head>For Hyſterical Fits.</head>
+               <p>Take of Pill Faetida and Ruffi, of each a Dram, Caſtor half a Scruple, Salt of Am<g ref="char:EOLhyphen"/>ber
+<pb n="9" facs="tcp:47524:11"/>and Volatile Salt of Sal Armoniack, of each 12 Grains, make them into 24 Pills, with as much <hi>Elixir Proprietatis</hi> as is ſufficient; take 4 of them every Night, or every other Night, according as they Work. Take al<g ref="char:EOLhyphen"/>ſo 30 Drops of the following mixture in a Draught of Penny-royal-water, twice a day, or at any other time when the Fits come. Take Spirit of Hartſhorn, and Oil of Amber, of each 2 Drams, Tincture of Caſtor and Spirit of Saffron, of each one Dram.</p>
+            </div>
+            <div type="part">
+               <head>For a Whitlow.</head>
+               <p>Take Sage and Caſtle-ſoap, of each a like quantity, mix them well, and lay them on the Whitlow, or take common Roſin finely powder'd, as much as is ſuf<g ref="char:EOLhyphen"/>ficient, and mix with the white of an Egg and lay it to the part.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>R—'s</hi> famous Cephalick Sneezing-Powder.</head>
+               <p>Take of Sage, Roſemary, Lilies of the Vally, the Tops of ſweet-majoram, of each half an Ounce, of Nutmegs and Aſara<g ref="char:EOLhyphen"/>bacca-roots, of each one Dram; dry them and let them be made into a fine Powder. It Cures Megrims and Vertigo's, prevents Apoplexies, and gives eaſe in all pains of the Head.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:47524:12"/>
+               <head>To Cure any old hollow Ulcer or Fiſtula.</head>
+               <p>Take 3 Drams of the beſt Myrrh groſly powder'd, boil in half a pint of Claret, let it ſtand and ſettle, pour the clear off for your uſe. If the Ulcer be very foul, dreſs it with a Dram of red Precipitate, and two of Linimentum Arcei, as ſoon as it is well cleans'd inject the Tincture Warm. If it be a Fiſtula, after you have us'd good Digeſtives, and are aſſur'd, that it is clean at bottom, make uſe of the Tincture, which will engender good fleſh, and Unite the Lips of the Wound in a very ſhort time, lay upon the Orifice, if the Wound be in a cold part, Emplaſtrum ad Herniam, which will both keep it warm and help to cloſe it. In green Wounds this Tincture has not its equal, for it heals them at 2 or 3 Dreſſings.</p>
+            </div>
+            <div type="part">
+               <head>A very good Receipt to make Pectoral Lo<g ref="char:EOLhyphen"/>zenges by Dr. <hi>B—d.</hi>
+               </head>
+               <p>Take of the Powder of Diarrhodon Ab<g ref="char:EOLhyphen"/>batis, one Dram, Flowers of Sulphur, and <hi>Benjamin</hi> of each 2 Scruples, Powder of Elecampane half a Dram, Japan Earth, one dram and an half, natural Balſam one Scruple Tincture of Sulphur aniſated, 40 drops,
+<pb n="11" facs="tcp:47524:12"/>
+                  <hi>London Laudanum,</hi> gr. 10. White Sugar-Candy a quarter of a Pound, make them into Lozenges, with a ſufficient quantity of <hi>Spaniſh</hi> juice, diſſolv'd in Hyſop-water.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>B—y's</hi> Receipt for a Conſumptive Cough.</head>
+               <p>Take of the Syrup of white and red Pop<g ref="char:EOLhyphen"/>pies, of each 3 Ounces, of Barley Cinna<g ref="char:EOLhyphen"/>mon-water, and red Poppy-water, of each 2 Ounces, of Tincture of Saffron, 1 Ounce, Liquid <hi>Laudanum</hi> 40 drops, and as much Spirit of Sulphur as will make it Acid. Take 3 or 4 Spoonfuls of it every Night going to Bed, encreaſe or diminiſh the Doſe according as you find it agrees with you.</p>
+            </div>
+            <div type="part">
+               <head>An excellent Remedy for a Bruiſe.</head>
+               <p>Take of Red Coral, Dragons Blood, <hi>Iriſh</hi> ſlate and Mummy, of each half an Ounce, of <hi>Lemnian Earth,</hi> and <hi>Sperma ceti,</hi> of each 2 Drams, of Rhubarb 3 Drams; let them all be finely Powder'd, grive a Dram of it at a time, in a Draught of Brunſwick Ale, after the Patient has been Blooded.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:47524:13"/>
+               <head>For Suppreſſion and ſharpneſs of Urine.</head>
+               <p>Take of Fennel, and Parſly-water, of each 2 Ounces, of the Compound Water of Horſe-Radiſh an Ounce and an half, <hi>Sal Prunellae</hi> one Dram, Spirit of Turpen<g ref="char:EOLhyphen"/>tine 10 drops, Syrup of Marſh-mallows an Ounce, mix them, and let the Patient drink it off all together, and it will give him eaſe in a very ſhort time.</p>
+            </div>
+            <div type="part">
+               <head>For the Colick.</head>
+               <p>Take of Chamomil Flowers, and Mal<g ref="char:EOLhyphen"/>low Leaves of each an handful, Juniper Berries, and Faenugreek ſeeds, of each half an Ounce, let the Seeds and Berries be bruis'd, boil them in a pint of Water, add to it ſtrain'd, of Turpentine Diſſolv'd, with the Yolk of an Egg, and Oil of Chamomil, of each an Ounce, <hi>Diacatholicon,</hi> 6 Drams, <hi>Hiera Piera,</hi> 2 Drams, mix and give it; after the Operation of the Glyſter, give the Pa<g ref="char:EOLhyphen"/>tient the following mixture. Take of Rue and Chamomile Water of each 1 Ounce. Cinamon-water an Ounce, liquid <hi>Lauda<g ref="char:EOLhyphen"/>num</hi> 20 Drops, Syrup of white Poppies an Qunce.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:47524:13"/>
+               <head>An excellent Plaſter, to be apply'd to the Feet in Fevers, which lie much in the Head.</head>
+               <p>Take of <hi>Burgundy</hi> Pitch, and <hi>Empla<g ref="char:EOLhyphen"/>ſtrum Cephalicum,</hi> of each a like quantity, ſpread it upon Sheeps Leather, and ap<g ref="char:EOLhyphen"/>ply it.</p>
+            </div>
+            <div type="part">
+               <head>A famous Water for a ſore Mouth or Cancer, by Dr. <hi>Lower.</hi>
+               </head>
+               <p>Take 3 Pints of ſmall Beer, half a Pound of Honey, of Red Sage, Roſemary, Bram<g ref="char:EOLhyphen"/>ble Leaves, and Celandine, of each an hand<g ref="char:EOLhyphen"/>ful, roch Allum, as much as will make it ſharp, let it boil till it comes to a Quart, then ſtrain it and keep it for uſe; this Wa<g ref="char:EOLhyphen"/>ter will Cure any ſore Mouth if curable: If at any time ſtinking Ulcers infect the Gums or Mouth, let half an Ounce of <hi>Unguentum Aegyptiacum,</hi> be added to half a Pint of Water.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>Lower's</hi> bitter Chalybeat Infuſion.</head>
+               <p>Take of the Tops of Roman Wormwood, and Centaury, of each an Handful, of Car<g ref="char:EOLhyphen"/>duus Seeds and Gentian Root, ſliced, of each
+<pb n="14" facs="tcp:47524:14"/>half an Ounce, of Filings of Steel 2 Ounces, of Compound Gentian and Wormwood-wa<g ref="char:EOLhyphen"/>ter of each 6 Ounces, of Milk Water a Quart, put them all together into a Bottle, and let them ſtand cloſe ſtopt 15 days, then ſtrain and keep it for your uſe. Take 6 Spoon<g ref="char:EOLhyphen"/>fuls every morning, and at 5 in the After<g ref="char:EOLhyphen"/>noon, faſting an hour afterwards.</p>
+            </div>
+            <div type="part">
+               <head>How to make the Lime-drink famous for Curing the Stone.</head>
+               <p>Take a good half Peck of Lime-ſtones new burnt, and put them into 4 Gallons of Water, ſtir it well at the firſt putting in, then let it ſtand, and ſtir it again; as ſoon as it is very well ſettled, ſtrain it off clear into a large Pot, and put to it 4 Ounces of <hi>Saſſafras,</hi> and 4 Ounces of Liquoriſh ſlic'd thin, Raiſins of the Sun ſtoned 1 Pound, half a Pound of blew Currants, Mallows and Mercury, of each an handful, Cori<g ref="char:EOLhyphen"/>ander, Fenil, and Aniſeeds of each an Ounce, let the Pot ſtand cloſe co<g ref="char:EOLhyphen"/>vered for Nine days, then ſtrain it, and let it ſettle, and pour the cleareſt of it into Bottles, you may drink half a Pint of it at a time, as often as you pleaſe, in your mor<g ref="char:EOLhyphen"/>nings draught put a Dram of Winter Cher<g ref="char:EOLhyphen"/>ries powdered. This has cured ſome that have been ſo Tormented with the Stone in
+<pb n="15" facs="tcp:47524:14"/>the Bladder, that they could not make Wa<g ref="char:EOLhyphen"/>ter, after they have in vain tryed all other Remedies.</p>
+            </div>
+            <div type="part">
+               <head>For Rheum in the Eyes.</head>
+               <p>Take half an Ounce of <hi>Lapis Calaminaris,</hi> made red hot 3 times, and quenched in red Roſe Water, afterwards filter it through a brown Paper, and waſh your Eyes with it very often.</p>
+            </div>
+            <div type="part">
+               <head>A Plaiſter for the Worms, by Dr. <hi>Brown.</hi>
+               </head>
+               <p>Take half a Pint of Ox-gall, and boil therein 2 or 3 ſpriggs of Lavender Cotton, and as much Wormwood, and as much Rue, when it has boil'd a pretty while, take out the Herbs, and put to it an Ounce of choice Aloes in powder, then ſet it on the Fire till it grows thick, and let it be ſpread on a piece of Sheeps Leather, and applyed to the Navel.</p>
+            </div>
+            <div type="part">
+               <head>An Ointment for the Itch.</head>
+               <p>Take Pomatum 3 Ounces, <hi>Sal-Prunellae,</hi> and <hi>Sulphur vivum</hi> finely Powdered, of each 3 Drams, mix them and let the Pa<g ref="char:EOLhyphen"/>tient anoint every night and morning, but
+<pb n="16" facs="tcp:47524:15"/>it is much more effectual if this Lotion be firſt uſed. Take of the Roots of Elicam<g ref="char:EOLhyphen"/>pane, and ſharp pointed Dock, of each 2 Ounces, let them be bruiſed and boiled in 3 Pints of Vinegar to a quart, to be uſed twice a day, for 3 days.</p>
+            </div>
+            <div type="part">
+               <head>For a Noiſe in the Ear, Proceeding ei<g ref="char:EOLhyphen"/>ther of a Cold, or a Blow.</head>
+               <p>Take of Tincture of Caſtor, Oil of bit<g ref="char:EOLhyphen"/>ter Almonds, of each one Dram, Civit 2 Grains, mix and Drop of it into the Ear, ſtopping the Ear afterwards with a piece of Black-Wool. If the Noiſe comes of Cold, purge the Head with <hi>Pills of Cochiae.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>An Effectual Remedy for an Old Strain.</head>
+               <p>Take of Crown-Soap a quarter of a Pound, the ſtrongeſt wort that you can get a Pint, of Brandy 2 Ounces, let them all boil together; about the latter end, add to it Myrrh, and Bole-Armoniack, finely Powder'd of each 3 Drams, afterwards let it boil to the Conſiſtence of a Plaſter, which ſpread upon Sheeps Leather, and apply to the part affected.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:47524:15"/>
+               <head>An Experienc'd Remedy againſt Epilep<g ref="char:EOLhyphen"/>ſies and Convulſive Fits.</head>
+               <p>Take of Male Peony Root, half an Ounce Miſsletoe of the Oak, Mans Skull, and white Amber, of each 2 Drams, red Co<g ref="char:EOLhyphen"/>ral, and Cinnabar of Antimony, of each one Dram, Camphire half a Dram, mix and reduce to a fine Powder, of which give from a Scruple to a Dram twice a Day, e<g ref="char:EOLhyphen"/>ſpecially 3 days before the full Moon, in 3 or 4 ſpoonfuls of this mixture.</p>
+               <p>Take of the Water of Lilies and Rue, of each 4 Ounces, of the Compound Peony-water 2 Ounces, of Tincture of Caſtor 3 Drams, Salt of Amber one Dram, Syrup of Peonies, an Ounce and an half.</p>
+            </div>
+            <div type="part">
+               <head>To Create a good Appetite, and ſtrengthen the Stomach by Dr. <hi>Lower.</hi>
+               </head>
+               <p>Take of the Stomatick Pill with Gums, <hi>Extractum Rudii,</hi> of each a Dram, Reſin of Jalap half a Scruple, Tartar vitriolated one Scruple, Oil of Aniſeeds 4 Drops, mix with Syrup of Violets, and make into Pills, of which take 4 or 5 over Night; they are of excellent uſe in the Megrims, and <hi>Vertigo,</hi> by reaſon they carry the Humour off from the Stomach, which fumes up into the head.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:47524:16"/>
+               <head>A very good Medicine for the Bloody-Flux by Dr. <hi>W—s.</hi>
+               </head>
+               <p>Take of the beſt Rhubarb finely Powder'd half an Ounce, of red Saunders 2 Drams, Cinnamon one Dram, <hi>Crocus Martis</hi> A<g ref="char:EOLhyphen"/>ſtringent, 3 Drams, of <hi>Lucatellus</hi> Balſam, what ſuffices, make a maſs for Pills of which take 4 every day for a Fortnight. This has Cur'd ſome that have loſt a vaſt quan<g ref="char:EOLhyphen"/>tity of Blood, after they had in vain try'd abundance of other Remedies.</p>
+            </div>
+            <div type="part">
+               <head>For a Wen.</head>
+               <p>Take of black Soap and unquench'd Lime of each a like quantity mix them well to<g ref="char:EOLhyphen"/>gether, and ſpread them upon Sheep's Lea<g ref="char:EOLhyphen"/>ther, apply to the part affected, and it will Conſume away by degrees.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Plaſter for any pain occa<g ref="char:EOLhyphen"/>ſion'd by a Cold or Bruiſe.</head>
+               <p>Take of the Plaſter of red lead, and <hi>Oxy<g ref="char:EOLhyphen"/>croceum,</hi> of each equal parts, of the beſt <hi>Theban opium,</hi> one Scruple, ſpread it on Lea<g ref="char:EOLhyphen"/>ther, and lay it to the part that Aches, after you have well anointed it with this Ointment, Take of Ointment of Marſh<g ref="char:EOLhyphen"/>mallows,
+<pb n="19" facs="tcp:47524:16"/>one Ounce, Oil of <hi>Exeter</hi> half an Ounce, Oil of Spike, and Spirit of Harts<g ref="char:EOLhyphen"/>horn, of each a Dram.</p>
+            </div>
+            <div type="part">
+               <head>A famous Collyrium, or Eye-water.</head>
+               <p>Take of Red-roſe, and Eyebright-water, of each 2 Ounces, of the beſt Aloes finely Powder'd one Dram, Sugar of Lead one Scruple, mix them, and with a Spunge let ſome drop into the Eye every Night.</p>
+            </div>
+            <div type="part">
+               <head>For an Ulcer in the Lungs and Kidneys.</head>
+               <p>Take of white Poppy ſeeds and Starch, of each one Dram, of Marſh-mallows, Pur<g ref="char:EOLhyphen"/>ſlain and Quince-ſeeds, of each 2 Drams, of Liquoriſh, Gum-Arabick and Amber, of each one Dram, of Myrrh, Bole Armoni<g ref="char:EOLhyphen"/>ack, Japan Earth, and red Coral, of each 2 Drams, let them be Powder'd, and made into Pills, with a ſufficient Quantity of Balſam of <hi>Capevie,</hi> roul them in Liquoriſh-powder, of which give 4 every Morning, and at 5 in the Afternoon; take of Marſh<g ref="char:EOLhyphen"/>mallows, Graſs, and aſparagus Roots, of each one Ounce, of Speedwell and Maiden<g ref="char:EOLhyphen"/>hair one handful, Figs and Raiſins, of each one Ounce, boil them in 3 Pints of Water to a Quart, ſtrain and keep it for uſe.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:47524:17"/>
+               <head>For Cold Rheums or Defluxions of the Head.</head>
+               <p>Take of Lignum Aloes, and Saſſafras, ſliced thin, of Amber Groſly beaten, of each 2 Drams, cut Betony half an Ounce, Roſe<g ref="char:EOLhyphen"/>mary and Lavender-flowers, of each a quar<g ref="char:EOLhyphen"/>ter of an Ounce, mingle and ſmock as To<g ref="char:EOLhyphen"/>bacco.</p>
+            </div>
+            <div type="part">
+               <head>A very effectual Injection for a Gonorrhea, which Heals the Ulcers, and ſtops the Gleeting.</head>
+               <p>Take of Plantain, and Frogs ſpawn wa<g ref="char:EOLhyphen"/>ter of each 3 Ounces, of <hi>Trochiſci albi Rhaſis,</hi> 2 Drams, Sugar of Lead one Dram, honey of Roſes, one Ounce.</p>
+            </div>
+            <div type="part">
+               <head>A Diet-Drink, very effectual in all Vene<g ref="char:EOLhyphen"/>real Accidents.</head>
+               <p>Take of China, Saſſafras, and Sarſaparilla-Root, of each 2 Ounces, Guiacum one Ounce and a half, Crude Antimony, made into a Nodulus, 2 Ounces, boil them in a Gallon of Water, to two Quarts, about the latter end, add of Coriander-ſeeds, half an Ounce, of Raiſins and Liquoriſh ſliced, of each 2 Ounces, ſtrain and drink inſtead of Beer.</p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:47524:17"/>
+               <head>For the ſame.</head>
+               <p>Take of Gum Guiacum two Drams, of <hi>Mercurius Dulcis,</hi> and <hi>Extractum Rudii,</hi> of each one Dram, make into Pills with Bal<g ref="char:EOLhyphen"/>ſam of <hi>Capivie,</hi> of which take 4 every o<g ref="char:EOLhyphen"/>ther Night.</p>
+            </div>
+            <div type="part">
+               <head>A very effectual Remedy for the Piles.</head>
+               <p>Take Black-lead ſcrap'd fine, mix it with ſome honey, till the Honey looks black, then put it into an Oyſter-ſhell, and ſet it over the Fire, till it Grows ſo ſtiff, that you can make it into a Suppoſitory.</p>
+            </div>
+            <div type="part">
+               <head>For a Looſeneſs.</head>
+               <p>Take a ſmall handful of Rice, Bruiſe it well, and boil in ſome Claret, till it comes to the thickneſs of a Poultice, ſpread it on a Cloath, and lay it on warm to the belly of the Pa<g ref="char:EOLhyphen"/>tient, renew it every Night till the looſe<g ref="char:EOLhyphen"/>neſs is ſtopt.</p>
+            </div>
+            <div type="part">
+               <head>For a freſh ſtrain.</head>
+               <p>Take of Linſeed Oil, and rectify'd Spi<g ref="char:EOLhyphen"/>rit of Wine, of each 2 Ounces Oil of Spike one Ounce, mix and rub the part very
+<pb n="22" facs="tcp:47524:18"/>well with it, and lay to it a Plaſter of Pa<g ref="char:EOLhyphen"/>racelſus.</p>
+            </div>
+            <div type="part">
+               <head>Sir <hi>Edmund King's</hi> Lip-Salve.</head>
+               <p>Take two Pennyworth of Virgins-wax, melt it in a Silver Porringer, with Orange Flower-water, let it cool and take the Cake off, which melt again in freſh Orange Flower-water, repeat doing ſo for 3 or 4 times, then put to the Wax an Ounce of Oil of Behn, a Scruple of Saffron finely powder'd, and a lump of double refin'd Sugar, about the bigneſs of a Nutmeg, mix them well over the fire, keeping it ſtirring till it is Cold, then work it with a Knife on a marble, and keep it in a Box for your uſe, if you would have it ſomething redder, add a little Alkanet roots in Powder.</p>
+            </div>
+            <div type="part">
+               <head>To make Oil of Bacon, for a Scald-head.</head>
+               <p>Take a piece of fat Bacon, roſt it, and let it drop into a Diſh, of which take 2 Ounces, and mix with 2 Penny worth of Verdigreaſe, and anoint the Head with it once a day, this has been often try'd with ſucceſs.</p>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:47524:18"/>
+               <head>An excellent Ointment for a Blaſt.</head>
+               <p>Take of Elder, Bramble, Fetherfew, Maidenhair, Vervain and Dill, of each one handful, 12 Leaves of red Sage, chop them ſmall, and boil them in freſh Butter, ſtrain and keep for your uſe, anoint the place 4 or 5 times in a day with a Feather, lay mal<g ref="char:EOLhyphen"/>low Leaves dipt in the Ointment all over the part.</p>
+            </div>
+            <div type="part">
+               <head>For the Shingles.</head>
+               <p>Take of the Green Moſs, which ſticks to the ſides of a Well bucket, and apply cold, renewing it once every day, in 4 or 5 days it will make a cure.</p>
+            </div>
+            <div type="part">
+               <head>For a Conſumption.</head>
+               <p>Take the Yolk of a new laid Egg, beat it with 3 ſpoonfuls of Red-roſe-water, put to it half a pint of the Stroakings of red Cows Milk, ſweetned with a ſufficient Quantity of Sugar of Roſes, add to it a little Nutmeg ſcrapt, take this every morning for a month, faſting 2 hours after it, this reſtor'd a Gentleman that was given over by the Doctors.</p>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:47524:19"/>
+               <head>To make the Oil of Charity.</head>
+               <p>Take Chamomil, Roſemary, Lavender, Wormwood, Sage, Valerian the leſſer, of each 2 handfulls, put them after you have ſtamp'd them, into a Quart of Oil of Olives, let the Herbs infuſe in the Oil till they are criſp, then ſtrain the Oil out, which is ve<g ref="char:EOLhyphen"/>ry good for any white ſwelling, eſpecially the Kings-Evil.</p>
+            </div>
+            <div type="part">
+               <head>For a Dropſy.</head>
+               <p>Take of Horſe-Radiſh Roots ſlit thin, and ſweet Fenil-ſeeds bruis'd, of each 2 Oun<g ref="char:EOLhyphen"/>ces, Smallage and Fenil Roots ſliced, of each one Ounce, of the tops of Time, Win<g ref="char:EOLhyphen"/>ter ſavory, ſweet Majoram, Water Creſſes, and Nettles, of each one handful, bruiſe the Herbs, and boil them in 3 Pints of Sack, and 3 of Water, to the Conſumption of half; let it ſtand cloſe cover'd for Three hours, then ſtrain it, and drink a Draught of it twice in a day, ſweetned with Syrup of Fenil, faſting 2 hours after it.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the falling-Sickneſs.</head>
+               <p>Take the Aſhes of a Swallow, burnt in an earthen Pot, of which give as much as
+<pb n="25" facs="tcp:47524:19"/>will lie upon a Six-pence, mingled with juice of Rue, every Morning for 9 days together.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Gangreen.</head>
+               <p>Take 4 Ounces of unſlack'd Lime, and pour upon it a Pint of warm Water; let it ſtand ſo 6 hours; then Filtrate it through a brown Paper, and put to the cleareſt of it Sublimate half a Dram, keep it in a Glaſs cloſe ſtopt, ſhaking it often; firſt waſh the Sore with it very well, then lay to it a Li<g ref="char:EOLhyphen"/>nen Cloth dipt therein; it will conſume the Proud fleſh, cleanſe the Sore, and by its drying quality, heal it in a very ſhort time. It is of ſingular uſe in the Itch and Leproſy.</p>
+            </div>
+            <div type="part">
+               <head>To ſtrengthen the Liver and prevent a Dropſy.</head>
+               <p>Take of the red and Yellow Dock-Roots, of the White and yellow Saunders, Guiacum, and Mechoacan, of each an Ounce, of A<g ref="char:EOLhyphen"/>grimony, and Harts-tongue, of each 2 handfuls, of Coriander-ſeeds, once Ounce, bruiſe them and put them into a Canvas Bag, with a ſtone to ſink it. Put the Bag into 4 Gallons of new Ale. In 4 days time it will be fit to Drink.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:47524:20"/>
+               <head>To ſtop a Bleeding Wound.</head>
+               <p>Take Roman Vitriol, Calcine it till it is red, Powder it, and apply it to the Wound; or take of the aforeſaid Vitriol, diſſolve it in Water, and lay to the Wound a piece of Lint dip'd therein.</p>
+            </div>
+            <div type="part">
+               <head>An excellent Remedy for Agues which has been often try'd with very great ſucceſs.</head>
+               <p>Take of Black-ſoap, Gunpowder, ſtink<g ref="char:EOLhyphen"/>ing Tobacco and Brandy, of each an equal quantity, mix them well together; and 3 hours before the Fit comes, apply to the Patients Wriſts; let this be kept on for a Fortnight.</p>
+            </div>
+            <div type="part">
+               <head>For the Bloody Flux.</head>
+               <p>Take 2 Quarts of Conduit-water, in which, Gads of ſteel have been often quench'd 3 Sheets of white Paper, a ſtick of Cinna<g ref="char:EOLhyphen"/>mon, an Ounce of old Conſerve of red Ro<g ref="char:EOLhyphen"/>ſes, and half a pint of Claret; boil them all together to the Conſumption of half; ſtrain and drink of it plentifully.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:47524:20"/>
+               <head>To Cure the biting of a mad Dog.</head>
+               <p>Take 2 Quarts of ſtrong Ale, two Pen<g ref="char:EOLhyphen"/>nyworth of Treacle, 2 Garlick-heads, an handful of Cinquefoil, Sage and Rue, boil them all together to a quart; ſtrain and give the Patient 3 or 4 ſpoonfuls twice a day: Take Dittany, Agrimony, and ruſty Bacon, beaten well together; and apply to the Soar, to keep it from Feſtering.</p>
+            </div>
+            <div type="part">
+               <head>For Sinews that are ſhrunk.</head>
+               <p>Take 12 young Swallows out of the Neſt, of Roſemary, Lavender and Strawberry leaves, of each an handful; bruiſe the Swallows with their Guts and Feathers; then boil them all in a ſufficient quantity of freſh Butter; after you have ſtrain'd it, rub the part with it very well by the Fire.</p>
+            </div>
+            <div type="part">
+               <head>For a Pin or Web in the Eye.</head>
+               <p>Take 2 or 3 Lice, and put them alive in<g ref="char:EOLhyphen"/>to the Eye that is griev'd, then ſhut it cloſe, the Lice will certainly ſuck the Web out, and afterwards without any damage to the Patient, come out.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:47524:21"/>
+               <head>To ſtop Bleeding at the Noſe.</head>
+               <p>Lay to the Temples, the Ear of a Hare burnt to Aſhes, and temper'd with Vine<g ref="char:EOLhyphen"/>gar; Bole Armoniack being in the ſame manner apply'd, will alſo have the ſame effect.</p>
+            </div>
+            <div type="part">
+               <head>An approved Remedy againſt ſpitting of Blood.</head>
+               <p>Take of the tops of ſtinging Nettles, Plantain leaves of each a like quantity; bruiſe them and ſtrain the Juice out, and keep it cloſe ſtopt in a Bottle, of which take 3 or 4 ſpoonfuls every morning and Evening, ſweetned with Sugar of Roſes. The Juice of Comfry Roots, drank with Wine is alſo very good; let the Patient be blooded at firſt, and ſometimes gently pur<g ref="char:EOLhyphen"/>ged. But if there happens to be any in<g ref="char:EOLhyphen"/>ward ſoreneſs occaſioned by ſtraining, this Electuary, will be very convenient, <hi>viz.</hi> Take one Ounce of <hi>Lucatellus</hi> Balſam, of Conſerve of Roſes, 2 Ounces, 12 drops of Spirit of Sulphur, to be made into a ſoft Electuary, with Syrup of white Poppies; the doſe is the quantity of a Nutmeg every Morning and Evening.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:47524:21"/>
+               <head>Another for the ſame by Dr. <hi>A.</hi>
+               </head>
+               <p>Take of Conſerve of Red-Roſes, Hips, and Comfry, of each an Ounce and an half, Dragons Blood, and Bole Armoniack, of each a Dram, Japan Earth, Species of Hyacinth, and Red Coral, of each 2 Scru<g ref="char:EOLhyphen"/>ples; mix them and make an Electuary with a ſufficient quantity of Syrup of Red Poppies, of which take the quantity of a Nutmeg every Night and Morning, Drin<g ref="char:EOLhyphen"/>king a Draught of the following Julep after it.</p>
+               <p>Take of the Water of Oak-buds, and Frogs Spawn, of each 3 Ounces, of Red<g ref="char:EOLhyphen"/>roſes and Plantain, of each 2 Ounces, of Diſtilled Vinegar an Ounce and an half, Bloodſtone finely powder'd one Dram, Sy<g ref="char:EOLhyphen"/>rup of Coral 2 Ounces. If the Patient is troubled with a Cough (as it often hap<g ref="char:EOLhyphen"/>pens,) and cannot Expectorate freely, let him take of the following Linctus, with a Liquoriſh-ſtick, twice or thrice in a Day: Linſeed-Oil freſh drawn 2 Ounces, Oil of Almonds an Ounce and an half, mucilage of Fleawort-ſeeds 2 Ounces, of Lohoc Sanum 3 Ounces.</p>
+            </div>
+            <div type="part">
+               <pb n="30" facs="tcp:47524:22"/>
+               <head>An excellent Receipt to make <hi>Lucatellus</hi> Balſam.</head>
+               <p>Take Venice Turpentine, waſh'd in Roſe-water, one Pound, Bees-wax half a Pound, of the beſt Sallet Oil 3 Pints, of Red-roſe-water and Sack of each a quarter of a Pint, red Sanders finely Powder'd one Ounce, of Oil of St. <hi>John</hi>'s Wort, and Balſam of <hi>Peru,</hi> of each 2 Ounces. Put the Bees-wax ſlic'd thin, together with the Oil and Tur<g ref="char:EOLhyphen"/>pentine, into your Pipkin firſt, then the Sack and Roſe-water, let them boil toge<g ref="char:EOLhyphen"/>ther about a quarter of an hour; take it off the Fire, and let it ſtand till next day, having made a hole in it, for the Water to drain out, then ſet it over the Fire, and put in the Oils, and laſt of all the Sanders by Degrees, ſtirring it very well till it is cold.</p>
+            </div>
+            <div type="part">
+               <head>An Admirable Ointment for <hi>Burns.</hi>
+               </head>
+               <p>Take of Nightſhade, Houſleek, Hemlock, and green Coleworts, of each 2 handfuls, of Violet-leaves and Henbane, of each one handful, bruiſe all theſe Herbs, and boil them in 6 Pound of freſh Butter till they are ſoft, then preſs the Juyce out, and ſet it over the Fire again, and put to it Bees-wax 4 Ounces; after it is boil'd a little, take it
+<pb n="31" facs="tcp:47524:22"/>off, and put to it Salt of Lead-half an Ounce, ſtir it well till the Salt is diſſolved. Cut away the Skin, before you lay this to the Sore, and it will heal it in Twenty Four hours.</p>
+            </div>
+            <div type="part">
+               <head>A Powerful Remedy for Rheumatick pains in the Joynts.</head>
+               <p>Take of Senna, Hermodacts, Turpethum, and Scammony, of each 2 Drams, of Ze<g ref="char:EOLhyphen"/>doary, Ginger, Cloves, and Cubebs, of each one Dram, mix them and let them be Powdered; the Doſe is from one Dram to two in any Convenient Vehicle. Let the parts affected be anointed with this Ointment; Take Palm Oil 2 Ounces, Oil of Turpentine one Ounce, Volatile Salt of Hartſhorn 2 Drams, afterwards apply to the part, a Plaiſter of Red-lead; ſome that have been very much troubled with Rheu<g ref="char:EOLhyphen"/>matick pains, have by the taking of Spirit of Hartshorn, in Compound Water of Earth-worms, found a mighty benefit.</p>
+            </div>
+            <div type="part">
+               <head>For a Conſumptive Cough, attended with ſpitting of Blood, by Dr. <hi>Lower.</hi>
+               </head>
+               <p>Take of Leaves of ground Ivy, Colts Foot, Maiden-hair, and Mouſe-ear, of each one handful, of the tops of St. <hi>John</hi>'s Wort, one
+<pb n="32" facs="tcp:47524:23"/>handful, of each of the Saunders 2 Drams of Coriander ſeeds 3 Drams, of Liquoriſh flic'd, and Raiſins ſton'd, of each 2 Ounces; boil in 3 Pints of Spring water to a Quart, ſtrain and uſe for your ordinary drink.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the Stone in the Kidnies.</head>
+               <p>Take of <hi>Saſſafras</hi> and <hi>Sarſaparilla,</hi> of each <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ounces, of <hi>Saxifrage,</hi> Parſly, and Ani<g ref="char:EOLhyphen"/>feeds bruis'd, of each 3 Ounces, of hore<g ref="char:EOLhyphen"/>hound, Juniper-berries, and Water-Creſſes, of each one handful, of the inward Bark of Elder 3 Ounces, 3 Limons ſlic'd with their Peels on, half an Ounce of Oil of Vitriol; put theſe into 3 Quarts of White Wine, and 3 of ſtrong Ale, let them ſtand 24 hours cloſe cover'd, then put them all into a cloſe Still, and draw off with a gentle Fire: Take a quarter of a Pint of this Water, mingled with as much White Wine, and ſweetned with Syrup of Marſh-mallows, e<g ref="char:EOLhyphen"/>very morning, and at 4 in the Afternoon, for 4 days together, uſing gentle Exerciſe after each time of taking; it will diſſolve the Stone, and bring it away in little pieces.</p>
+            </div>
+            <div type="part">
+               <head>For the Gravel.</head>
+               <p>Take 3 Ounces of Dr. <hi>Lower</hi>'s Tincture, as it is made, Page the firſt, and diſſolve in
+<pb n="33" facs="tcp:47524:23"/>it one dram of Tincture of Salt of <hi>Tartar,</hi> give it in the morning Faſting.</p>
+            </div>
+            <div type="part">
+               <head>To make Syrup of Cinnamon.</head>
+               <p>Take 4 Ounces of Cinnamon groſſy powder'd, a Pint and an half of Claret, put them into a Glaſs Viol, cloſe ſtopt; ſet it in the Sun 9 or 10 days, or infuſe in a Skillet of warm Water 24 hours; ſhake the Viol often, ſtrain the Liquour from the Cinnamon, and with a Pound of Sugary boil it to the thickneſs of a Syrup; if you added to it, after it is removed from the Fire, 4 or 5 ſpoonfuls of Roſe-water, and 2 Grains of Musk, it would give it a very pleaſant flavour; it is an admirable thing to Comfort the Stomach, Heart and Womb, it diſcuſſeth Wind, ſtops all manner of Fluxes, and being given in a little Cinna<g ref="char:EOLhyphen"/>mon-Water, helpeth hard labour.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Lower</hi>'s Cephalick Plaſter, which gives eaſe in all pains of the Head, ſtops Catarrns, and ſtrengthens the Eye-ſight.</head>
+               <p>Take of Roſin 2 ounces, Bees-wax, Fran<g ref="char:EOLhyphen"/>kincenſe, Turpentine, and Deer's Suit, of each one ounce, of Maſtich powder'd, two Drams, of White Wine 4 ounces; put
+<pb n="34" facs="tcp:47524:24"/>the Roſin, Bees-wax, Frankincenſe, and Deers Suet into the Pipkin, together with the White-Wine firſt, and let them boil a little, then put in the Turpentine waſh'd in Roſe water, and laſt of all the Maſtich, ſtirring it very well.</p>
+            </div>
+            <div type="part">
+               <head>An Experienced Water for hot and ſharp Humours of the Eyes.</head>
+               <p>Take 2 Quarts of May Dew, gathered from Barley, of white Copperas and Salt, of each a quarter of an Ounce, boil them all together till they come to a Quart; keep for your uſe in a glaſs cloſe ſtopt. Let the Salt lie a little while in the Embers, being wrapt in a wet Cloath, and rub it ſmall with the Copperas before you uſe it.</p>
+            </div>
+            <div type="part">
+               <head>A famous Water to preſerve the Eye ſight, or if loſt to reſtore it.</head>
+               <p>Take a Rye Loaf, without Salt or Leaven, cut it into thin ſlices, and Diſtil in a cold Still; take of the Water that comes from it, and drop of it into the Eyes twice or thrice every day, for a month together; this Water Cured a Gentleman after he had been blind a whole Year: Take alſo a Rag of <hi>Holland</hi> Cloath, and burn it be<g ref="char:EOLhyphen"/>tween two Pewter Diſhes, and of the Wa<g ref="char:EOLhyphen"/>ter
+<pb n="35" facs="tcp:47524:24"/>that comes from it, drop a little into the Eye every Night.</p>
+            </div>
+            <div type="part">
+               <head>For ſore Nipples.</head>
+               <p>Take of Sperma Ceti, Oil of Almonds, and Virgins-wax, of each an equal quan<g ref="char:EOLhyphen"/>tity, melt them together, and every Mor<g ref="char:EOLhyphen"/>ning and Evening anoint the part.</p>
+            </div>
+            <div type="part">
+               <head>For extream Looſeneſs.</head>
+               <p>Take a Pomewater, roſt it ſoft, and mix the Pulp of it with as much Chalk finely ſcraped, mix them well together with a Knife on a Trencher, and apply to the Patients Navel, as hot as he can endure it; let it lie on 24 hours.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>C—n's</hi> Receipt to ſtop Vomiting, and ſtrengthen the Stomach.</head>
+               <p>Take of Spearmint, Barley and Cinna<g ref="char:EOLhyphen"/>mon Water, of each 3 Ounces, of Plague-water 2 Ounces, of Salt of Wormwood, one Dram, of Juice of Lemons one Ounce, 3 Leaves of Gold, Confection of Hyacinth, 2 Drams, Syrup of red Poppies an Ounce and an half, mix and give 4 ſpoonfulls every 4 hours, ſhaking the Viol.</p>
+            </div>
+            <div type="part">
+               <pb n="36" facs="tcp:47524:25"/>
+               <head>An approv'd Poultis for an Ulcer.</head>
+               <p>Take a good quantity of Bryony Roots, ſtamp them, and boil them in a ſufficient quantity of Bacon-greaſe, till it grows ſtiff; this Cur'd a Mans Knee that was Fi<g ref="char:EOLhyphen"/>ſtulated in ſeveral places.</p>
+            </div>
+            <div type="part">
+               <head>A Receipt that Cured a Gentleman, who had for a long time ſpit Blood in a great Quantity, and was ſo waſted with a Conſumption, that Dr. <hi>Willis</hi> declared it was impoſſible for him to recover.</head>
+               <p>Take of Hyſſop-water, and of the pureſt Honey of each one Pint, of Agrimony and Coltsfoot, of each one handful, a ſprig of Rue, brown Sugar Candy, liquoriſh ſlic'd, ſhavings of Hartshorn, of each 2 Ounces, Aniſeeds bruis'd once Ounce, of Figgs flic'd, and Raiſins of the Sun ſton'd, of each 4 Ounces; put them all into a Pipkin with a Gallon of Water, and boil it gently over a moderate Fire till half is conſumed, then ſtrain it, and when it is cold put it into Bottles, being cloſe ſtop'd; take 4 or 5 ſpoonfuls every morning, at 4 in the After<g ref="char:EOLhyphen"/>noon, and at Night the laſt thing. If you add freſh water to the Ingredients after the firſt Liquor is ſtrain'd off, you will have
+<pb n="37" facs="tcp:47524:25"/>a pleaſant drink to be uſed at any time when you are a dry.</p>
+            </div>
+            <div type="part">
+               <head>An Approved Medicine to bring away a dead Child.</head>
+               <p>Take Betony, Hyſſop, and Vervain of each a ſmall handful, boil them in a Pint of White-wine, to half a Pint, and give it to the Patient to drink.</p>
+            </div>
+            <div type="part">
+               <head>A very ſucceſsful remedy for an Ague.</head>
+               <p>Take of the whiteſt Hen dung you can get, and boil it in Aniſeed-water, till it be ſomewhat ſtiff, then ſpread it on a Plaſter, and take an Onion cut into ſlices, which being prick'd with a Knife, lay upon the Plaſter, and apply to both Wriſts an hour before the Fit comes; as hot as the Patient can endure, let the Plaſters lie on a week after they are apply'd.</p>
+            </div>
+            <div type="part">
+               <head>Another for the ſame.</head>
+               <p>Take a good quantity of the beſt Venice Turpentine, and as much Frankincenſe, beat them well together ſpread upon Sheeps Leather and apply before the Fit comes.</p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:47524:26"/>
+               <head>For Fits of the Mother.</head>
+               <p>Take the thick Skin of the Gizzard of a Capon, rub it very clean, dry it and beat it to Powder, give a little quantity of it to drink, in Beer immediately before the Fit comes, or take 3 or 4 ſpoonfuls of Sage-water, with 6 drops of Oil of Amber mixt with it, either in the Fit, or before the Fit comes to prevent it.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent method to Cure the Dropſy.</head>
+               <p>Take a good quantity of black Snails, ſtamp them well with Bay-Salt, and lay to the hollow of the Feet, putting freſh twice a day. Take likewiſe an handful of Spear<g ref="char:EOLhyphen"/>mint, and Wormwood, bruiſe them, and put them into a Quart of Cream, which boil till it comes to an Oil, then ſtrain and anoint thoſe parts, that are ſwell'd. Take of the Tops of green Broom, which after you have dry'd in an Oven, burn upon a clean Hearth to Aſhes, which mingle very well with a Quart of White-wine, let it ſtand all night to ſettle, and in the morn<g ref="char:EOLhyphen"/>ing drink half a Pint of the cleareſt, at 4 in the Afternoon, and at Night going to Bed do the ſame. Continue laying the Poultis to your Feet, and drinking the White-wine
+<pb n="39" facs="tcp:47524:26"/>for 3 Weeks together; this method has been often uſed with ſucceſs.</p>
+            </div>
+            <div type="part">
+               <head>For the Almonds of the Ears being fallen.</head>
+               <p>Take of Oil of Bays, and quick-ſilver, of each 2 Pennyworth, 18 Sage Leaves, Bole Armoniack powder'd 2 Drams, mix them all together very well, and ſpread upon a piece of thin Leather as big as a Sixpence, and apply to the Crown of the Head, and the Nape of the Neck. Be ſure that the Quickſilver is kill'd either with faſting Spit<g ref="char:EOLhyphen"/>tle, or <hi>Venice</hi> Turpentine.</p>
+            </div>
+            <div type="part">
+               <head>A famous Diet Drink to ſweeten the Blood.</head>
+               <p>Take of both the ſorts of Scurvy-graſs, of each 6 handfuls, of Ground-Ivy 8 hand<g ref="char:EOLhyphen"/>fuls, of Sage 6 handfuls, of Soap-wort Roots, 4 Ounces, of Agrimony and Garden-Creſſes, of each 4 handfuls, of ſharp pointed dock roots, 8 Ounces, of Roſemary and Balm, of each one handful, 4 Orange-Peels, one large Nutmeg ſlic'd; put theſe things into a Bag, and ſteep in 8 Gallons of New Ale, as ſoon as the Ale has done working, ſtop the Barrel cloſe, take a pint of it every Morning, and at 4 in the Afternoon; in 4 days time it will be fit for your uſe.</p>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:47524:27"/>
+               <head>A Poultis for a ſwelling Caus'd by the Gout.</head>
+               <p>Take of Raiſins of the Sun ſton'd, beat them well in a Stone Mortar with Malago Sack, till it comes to the thickneſs of a Poultis, which being apply'd to the ſwell<g ref="char:EOLhyphen"/>ing, will take it down. A Plaſter of Red Lead will have the ſame effect.</p>
+            </div>
+            <div type="part">
+               <head>An excellent Bolus to carry off Rheumatick pains by ſweating.</head>
+               <p>Take of long Pepper, and Grains of Pa<g ref="char:EOLhyphen"/>radiſe powder'd, of each half a Dram, of <hi>Venice</hi> Treacle one Dram, mix and make a Bolus, which take when you go to Bed; as you Sweat drink Sage Poſſet Drink; take care you don't get cold after it; Repeat it twice or thrice.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a ſore Breaſt.</head>
+               <p>Take a Sheeps Head, cut it open, and after that you have waſh'd it very clean, boil it in Water two hours together, then ſtrain it, put to the Liquor half a Pound of Rice, and ſet it over the Fire, and boil it to the Conſiſtence of a Poultis, mingle with it a quarter of a Pound of freſh Hogs
+<pb n="41" facs="tcp:47524:27"/>Lard, and as much Saffron in powder as will Colour it. This being laid on warm to the Sore, will without any other Appli<g ref="char:EOLhyphen"/>cation both break and heal it.</p>
+            </div>
+            <div type="part">
+               <head>For the Dyſentery, or Bloody Flux.</head>
+               <p>Take of the Suet of a Loin of Mutton, eſpecially that which ſticks to the Kidney, and of right Nants Brandy, of each 4 Ounces; let them boil a little, and give the Patient it to drink warm. When the Bloody Flux raged amongſt the Soldiers in <hi>Ireland,</hi> this was almoſt an Univerſal Me<g ref="char:EOLhyphen"/>dicine, and ſeldom fail'd of ſucceeding.</p>
+            </div>
+            <div type="part">
+               <head>A very good water to Cure the Scurvy, purge the Blood, and to cauſe a good habit of Body.</head>
+               <p>Take half a Peck of Sea Scurvygraſs bruis'd, Horſe Radiſh Root ſlic'd thin one Ounce, of Cinnamon, Nutmegs, Carda<g ref="char:EOLhyphen"/>moms, and Ginger bruis'd, of each half an Ounce, 12 Oranges cut in quarters, of Raiſins of the Sun ſton'd half a pound, in<g ref="char:EOLhyphen"/>fuſe all theſe 24 hours in 3 quarts of White Wine; put them all into a cold Still, with 2 quarts of Water, and draw off with a gentle Fire about 3 quarts, take about half a Pint of it every Morning and Afternoon.</p>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:47524:28"/>
+               <head>To Cure a Felon.</head>
+               <p>Take Sage and White Soap, of each e<g ref="char:EOLhyphen"/>qual parts, mix them well, and lay to the part it; preſently gives eaſe, and ſtops its go<g ref="char:EOLhyphen"/>ing any further.</p>
+            </div>
+            <div type="part">
+               <head>To make <hi>Paracelſus</hi>'s Plaſter Dr. <hi>Lower</hi>'s way.</head>
+               <p>Take of Litharge of Gold and Silver, of each 3 Ounces, of the beſt Salad and Linſeed Oil, of each a Pint and an half, ſet them over the Fire, ſtirring them conti<g ref="char:EOLhyphen"/>nually, as ſoon as they boil, add to them in powder Red L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, and <hi>Lapis Cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minaris,</hi> of each half a pound <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> boil till they look black, and grow <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hick, then b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing ta<g ref="char:EOLhyphen"/>ken off the Fire, add of yellow Wax and black Roſin, of each a Pound, of Gum San<g ref="char:EOLhyphen"/>drack half a Pound, of Amber, Olibanum, Myrrh, Aloes, of both the kinds, of Bith<g ref="char:EOLhyphen"/>wort-root, of Mummy, Dragons Blood, Lemnian Earth, white Vitriol, Bloodſtone, and Camphire, of each one Ounce, all fine<g ref="char:EOLhyphen"/>ly powder'd and ſet over the Fire again, give one gentle boil, and put to it of Oil of Bays, and <hi>Venice</hi> Turpentine, of each half a pound, of Oil of Juniper 4 Ounces, and laſt of all put in theſe following Gums
+<pb n="43" facs="tcp:47524:28"/>diſſolved in Vinegar, and ſtrain'd, <hi>viz.</hi> Gal<g ref="char:EOLhyphen"/>banum, Sagapenum, Opoponax, Ammo<g ref="char:EOLhyphen"/>niacum, and Bdellium, of each 3 Ounces, When it is boil'd enough, being dropt up<g ref="char:EOLhyphen"/>on a Stone, it will not ſtick to your Fingers. All the time you are making the Plaſter, take great care that you keep it conſtantly ſtirring, for otherwiſe you ſpoil the whole Maſs.</p>
+            </div>
+            <div type="part">
+               <head>For a Stich or Pain in the ſide.</head>
+               <p>Take Chamomil Flowers, Oatmeal and Bran, of each equal parts, put them in Bags, and lay hot to the part that is pain<g ref="char:EOLhyphen"/>ed; change them as often as they Cool.</p>
+            </div>
+            <div type="part">
+               <head>To make a very good Surfeit water.</head>
+               <p>Take of the beſt Spirit of Wine one Gal<g ref="char:EOLhyphen"/>lon, of Damask Roſe water one Quart, of Poppy Water one Pint, of Raiſins ſton'd one Pound, and an half, of Brown Sugar Candy one Pound, of Dates ſlic'd and Rai<g ref="char:EOLhyphen"/>ſins ſton'd, of each 4. Ounces, of Cloves, Mace, Nutmegs, Cinnamon, and Aniſeeds, of each one Ounce, bruiſe them well, two large handfuls of Poppy Leaves, of Balm and Angelica, of each one handful. Infuſe for 4 days cloſe covered, then ſtrain and keep it for your uſe.</p>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:47524:29"/>
+               <head>For a Weakneſs or Giddineſs in the Head.</head>
+               <p>Take dry'd Roſemary Tops, and Roſe Leaves, Lavender Flowers, red Sage, and Mint, of each one handful, of Cloves, Nutmegs, Maſtick, <hi>Benjamin</hi> and <hi>Storax,</hi> of each half an Ounce, bruiſe them well; and being quilted in red Sarcenet, wear next your Head.</p>
+            </div>
+            <div type="part">
+               <head>To make Milk-water, very uſeful in all ſorts of Fevers and Conſumptions.</head>
+               <p>Take of Carduus 2 handfuls, of Rue, Goats Rue, Angelica, Worm-wood, Mint, and Balm, of each one handful; put them all being well bruiſed into a cold Still with a Gallon of Milk, and draw off with a very gentle Fire, leaſt it ſhould run thick; you may draw off almoſt 3 Quarts. Drink a Glaſs of it at any time ſweetned with Sugar.</p>
+            </div>
+            <div type="part">
+               <head>To Cure an Impoſthume.</head>
+               <p>Take the Roots of Dragon, ſtamp'd with White-wine; ſtrain and drink a good Draught of the Liquor which will break,
+<pb n="45" facs="tcp:47524:29"/>and bring it away without any thing elſe.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Lower's</hi> Stomatick Tincture, which being continued for a conſiderable time, perfectly Cures thoſe that are much troubled with the Cholick.</head>
+               <p>Take of Gentian Root ſlic'd thin, of the yellow Peel of Oranges, of Calamus Aro<g ref="char:EOLhyphen"/>maticus, groſly beaten, of each one Ounce, of Rhubarb ſlic'd half an Ounce, of Ani<g ref="char:EOLhyphen"/>ſeeds, and Coriander ſeeds bruis'd, of each 3 Drams, of <hi>Hiera Picra,</hi> 3 Drams; In<g ref="char:EOLhyphen"/>fuſe them warm, 24 hours in a quart of White-wine, then ſtrain, and take of it 3 or 4 ſpoonfuls every morning, faſting an hour after you have taken it.</p>
+            </div>
+            <div type="part">
+               <head>For Violent pains in the Ears.</head>
+               <p>Take an Head of Garlick, and roaſt it, then take of the ſofteſt of it, and mix with as much Mithridate, and apply it a<g ref="char:EOLhyphen"/>bout Bed time to the Patients Ear, as hot as he can bear it, if there is occaſion renew again the next day.</p>
+            </div>
+            <div type="part">
+               <pb n="46" facs="tcp:47524:30"/>
+               <head>To preſerve the Face, from being deform'd by the Small Pox.</head>
+               <p>Take an Ounce and an half of Pomatum, of Oil of Almonds, one Ounce, of Sper<g ref="char:EOLhyphen"/>ma ceti, and Virgins Wax of each 3 Drams, of Damask Roſe Water one Ounce, ſet them all together over the Fire, and as ſoon as they are melted take them off, and after you have ſtir'd them very well, let them ſtand till they are cold, then make a hole, and drain out the Water, and with a Feather anoint the Patients Face.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the pains of the Cramp.</head>
+               <p>Take of the Oil of St. <hi>John</hi>'s wort, and Spirit of Lavender, of each one Ounce, mix them very well, and with the mixture rub the part affected.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a ſore Throat that is Inflam'd.</head>
+               <p>Take of Plantain Water half a Pint, beat it well with the white of a New laid Egg, then ſtrain it and ſweeten it with white Sugar, let the Patient waſh his Mouth with it as often as he pleaſes.</p>
+            </div>
+            <div type="part">
+               <pb n="47" facs="tcp:47524:30"/>
+               <head>To fortify the Stomach, and ſtop Vo<g ref="char:EOLhyphen"/>miting.</head>
+               <p>Take of the Salt of Wormwood one Scruple, give it in a ſpoonful of Syrup of Lemons, with 3 or 4 Spoonfuls of Mint Water after it, repeat it every 2 hours till the Vomiting ceaſes.</p>
+            </div>
+            <div type="part">
+               <head>For the Hoemorrhoids.</head>
+               <p>Take of Diapalma melted down very thin, with Oil of Chamomil, one Ounce, put to it Saffron finely powder'd one Scruple, Opium 3 Grains, mix them well, and be<g ref="char:EOLhyphen"/>ing moderately warm, anoint the part af<g ref="char:EOLhyphen"/>fected.</p>
+            </div>
+            <div type="part">
+               <head>For Hyſterical Vapours by Dr. <hi>Lower.</hi>
+               </head>
+               <p>Take of ſtrain'd Galbanum one Dram, of Aſſa faetida, Myrrh, Caſtor, and Salt of Amber, of each 2 Scruples, make into a Maſs with a ſufficient Quantity of Natural Balſam, of which being made into Pills, take 3 every Morning and Night, in a ſpoonful of Hyſterick-water.</p>
+            </div>
+            <div type="part">
+               <pb n="48" facs="tcp:47524:31"/>
+               <head>An Approved Medicine for a Burn or Scald.</head>
+               <p>Take the White of an Egg, and as much of the beſt Linſeed Oil; beat them well together; dip a Cloth in it, and apply to the Sore, often ſhifting the Cloth.</p>
+            </div>
+            <div type="part">
+               <head>A Strengthning Plaiſter for the Back.</head>
+               <p>Take half a Pint of Oil of Roſes, four Ounces of white Lead finely pouder'd; firſt put the Oil over the fire, and when it is a little warm put into it the white Lead, and a quarter of a pound of Bees-Wax cut very thin, keep it continually ſtirring till it is throughly incorporated, and looks blackiſh; then take it off the fire, and as it cools put in a Dram of Cam<g ref="char:EOLhyphen"/>phire, of white Saunders and Myrrh pou<g ref="char:EOLhyphen"/>der'd, of each two Drams, of fine Bole and <hi>Terra ſigillata</hi> of each one Dram; continue ſtirring it till it is quite cold, make it in<g ref="char:EOLhyphen"/>to rolls, and uſe it as you have occaſion; for any weakneſs, waſting, or pain in the Kidnies, it is of Singular uſe.</p>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:47524:31"/>
+               <head>A Cataplaſm to divert Humours, or abate any Swelling.</head>
+               <p>Take of Bean and Barly Meal, of each 2 ſpoonfuls, of Honey one ſpoonful, Oil of Chamomil one ounce; mix with ſtrong Ale, enough to make it thin; let it boil a little, and apply it warm; if you would have it draw, add to it ſome Rye Meal.</p>
+            </div>
+            <div type="part">
+               <head>An excellent Cordial for a Conſumption.</head>
+               <p>Take of the Stroakings of a Red Cows Milk, and Muskadine, of each 2 quarts, of Raiſins of the Sun ſton'd and Blew Currans well cleans'd, of each a pound, of Liquoriſh and Dates ſlic'd, of each 4 oun<g ref="char:EOLhyphen"/>ces, of Cinnamon one ounce, of Nutmegs bruis'd half an ounce, put them into a cold Still, luted, and draw off the Water; of which give 4 ounces ſweetn'd with Sugar-Candy every morning faſting, and at 4 in the afternoon, uſing gentle Exerciſe after. Continue taking it for a Month together.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Oil to cure the Heat and Shining of the Noſe.</head>
+               <p>Take 12 ounces of Gourdſeed, bruiſe them and take the Kernels out; blanch
+<pb n="50" facs="tcp:47524:32"/>ſix ounces of bitter Almonds, put them in<g ref="char:EOLhyphen"/>to a Preſs, and draw the Oil from them, with which anoint the Noſe often.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Lowre</hi>'s Purging Drink for young Children to ſweeten their Blood.</head>
+               <p>Take half an ounce of choice Rhubarb ſlic'd thin, burnt Harts-horn bruis'd one ounce, Raiſins of the Sun ſton'd 2 ounces, infuſe them in a pint of Ale, and a pint of ſmall Beer 24 hours; give 2 or 3 ſpoon<g ref="char:EOLhyphen"/>fuls at a time as occaſion requires.</p>
+            </div>
+            <div type="part">
+               <head>To make the <hi>Italian</hi> Plaſter, which cures Corns, heals old Sores and Ulcers.</head>
+               <p>Take 10 ounces of Oil of Olives, 4 of Bees-wax, of Litharge of Gold, Li<g ref="char:EOLhyphen"/>tharge of Silver, and Ceruſs, of each 4 ounces, of Myrrh 4 drams; firſt put in the Oil and Bees-wax, then the Litharge, conſtantly ſtirring it; when it is boyl'd to a browniſh Colour, take it off the fire, and put to it Myrrh, and of <hi>Venice</hi> Turpen<g ref="char:EOLhyphen"/>tine 4 ounces, ſtir it well together, and pour it into a Pail of Water and work it up. When you make uſe of it for Corns, firſt cut your Corns as cloſe as you can without fetching of Blood, then lay a Plaſter of this to it, keeping it on for
+<pb n="51" facs="tcp:47524:32"/>4 days, 5 or 6 of theſe Plaſters will bring up the Corn by the roots.</p>
+            </div>
+            <div type="part">
+               <head>For a Bruiſe occaſion'd by a Fall.</head>
+               <p>Take Horſe-dung, and Sheeps Suet, of each equal parts, boil them well together, and apply warm to the part affected like a Poultis.</p>
+            </div>
+            <div type="part">
+               <head>For Obſtructions by Dr. <hi>Lowre.</hi>
+               </head>
+               <p>Take of the Conſerve of Roman Worm<g ref="char:EOLhyphen"/>wood, and of the yellow Peel of Oranges, of each an ounce and an half, of Gentian Root powder'd, and compound Powder of Aron Roots 2 drams, of Cream of Tartar, and Steel prepar'd with Sulphur, of each 3 drams, make it into a ſoft Electuary, with a ſufficient quantity of the Syrup of the 5 opening Roots, of which take the quan<g ref="char:EOLhyphen"/>tity of a Nutmeg every morning faſting, and at 4 in the afternoon, taking 6 ſpoon<g ref="char:EOLhyphen"/>fuls of the following Tincture after each time of taking it.</p>
+               <p>Take of the tops of Centaury, of Camo<g ref="char:EOLhyphen"/>mil-flowers, and of Agrimony, of each one handful, of Gentian Root ſlic'd half an ounce, of Carduus and Coriander Seeds, of each 3 drams, of the filings of Steel 2 oun<g ref="char:EOLhyphen"/>ces, infuſe a whole day in a quart of White<g ref="char:EOLhyphen"/>wine.</p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:47524:33"/>
+               <head>An Excellent Cooling Emulſion which gives eaſe in Fits of the Stone and Gravel.</head>
+               <p>Take of Melon, Cucumber, Citrull, and Gourd-ſeeds, of each 2 drams, white Pop<g ref="char:EOLhyphen"/>pey-ſeeds 3 drams, of Almonds blanch'd half an ounce, of Barley-water a quart; bruiſe the Seeds well in a Stone Mortar, then by degrees pour the Water upon them, which ſtrain out; after you have made it look as white as Milk, and ſweeten'd with Syrup of Marſh-Mallows; if the Pa<g ref="char:EOLhyphen"/>tient can't make water, you may add to it a dram and an half of Sal Prunellae.</p>
+            </div>
+            <div type="part">
+               <head>To faſten Teeth made looſe by the Scurvy.</head>
+               <p>Take of Pomegranate-flowers, Maſtich, and Myrrh, bruiſed, of each 2 drams boil'd in Claret, and waſh your Mouth every morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>A Plaſter for Hyſterical Fits.</head>
+               <p>Take of Aſſa Faetida, Gum Caranna, and Galbanum ſtrain'd, of each equal parts, ſpread upon Sheeps Leather, and ap<g ref="char:EOLhyphen"/>ply to the Patients Navel; put a piece of
+<pb n="53" facs="tcp:47524:33"/>Cotton with 2 grains of Musk in the mid<g ref="char:EOLhyphen"/>dle of the Plaſter.</p>
+            </div>
+            <div type="part">
+               <head>A Receipt brought out of <hi>Turky</hi> to cure a wound, by anointing the Weapon.</head>
+               <p>Take a piece of Ruſty Bacon, melt it with a pair of Tongues into a Diſh, and anoint the Weapon with it, wrap it in a woollen cloth, and ſet it with the Point upwards, anoint the Weapon twice aday, this will cure any Wound that is curable.</p>
+            </div>
+            <div type="part">
+               <head>A Preſcription by Dr. <hi>S—m</hi> for the Scur<g ref="char:EOLhyphen"/>vy, which has been often us'd with ve<g ref="char:EOLhyphen"/>ry great ſucceſs.</head>
+               <p>Take of Pine, and Fir-tops, of each one handful, boil them gently in a pint of Poſ<g ref="char:EOLhyphen"/>ſet-drink made of Whitewine and ſmall Beer, let it ſtand till it is cold, then ſtrain it, and take 6 ſpoonfuls of it with 20 drops of the Golden Tincture of Steel every morning faſting, and at 5 in the afternoon, walking after each time of taking it. Once every week take 2 quarts of <hi>Epſom</hi> water, about a week after you have begun this method, be let blood; continue this courſe for a month or ſix weeks. Thoſe days that you purge forbear taking the Tin<g ref="char:EOLhyphen"/>cture and Poſſet-drink.</p>
+            </div>
+            <div type="part">
+               <pb n="54" facs="tcp:47524:34"/>
+               <head>An Ointment for a Rupture.</head>
+               <p>Take 2 handfuls of Black Snails, of Mal<g ref="char:EOLhyphen"/>lows, Rue and Balm, of each one handful, put them all into an Earthen Pot, with But<g ref="char:EOLhyphen"/>ter enough to cover them, let the Pot ſtand 3 hours in the Oven, then ſtrain it, ſtirring it till it is quite cold.</p>
+            </div>
+            <div type="part">
+               <head>An experienced Eye-water to ſtrengthen the Sight, and prevent Cataracts.</head>
+               <p>Take of Eye-bright-tops 2 handful, of Celandine, Vervein, Betony, Dill, Ground<g ref="char:EOLhyphen"/>pine, Clary, Avens, and Pimpernel, of each one handful, Roſemary-flowers one handful, of Capons Galls, and Aloes bruis'd, of each half an ounce, of Long Pepper one dram; infuſe 24 hours in 2 quarts of Whitewine, then draw it off in a Glaſs-ſtill, drop the water with a Feather into the Eye often.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Fryar</hi>'s Directions for Curing the Fits of the Mother.</head>
+               <p>Take 2 drams of Cream of Tartar, diſ<g ref="char:EOLhyphen"/>ſolve it in half a pint of Rue-water, add to it 2 ounces of Treacle-water, and take it in the morning faſting. This like an In<g ref="char:EOLhyphen"/>chantment,
+<pb n="55" facs="tcp:47524:34"/>cures fits at once or twice ta<g ref="char:EOLhyphen"/>king, though the party has been given over for dead. In all Languiſhing Fits of the Mother and Spleen, give 3 or 4 ſpoonfuls of this Julep, Take of Rue, Balm, and Chamomil-water, of each 3 ounces, of the tincture of Caſtor, one ounce, Treacle-wa<g ref="char:EOLhyphen"/>ter 2 ounces, of <hi>Confectio Alkermes</hi> 3 drams, of Syrup of Gilly flowers 2 ounces, mix them all together; let the Patient take once or twice a week, 4 or 5 of theſe Purging Pills. Take of Pill. Ruffii, and Faetidae of each one dram, of Caſtor, and the troches of Myrrh, of each half a dram, of Oil of Amber a ſcruple, of Balſam of <hi>Peru</hi> half a dram, make in<g ref="char:EOLhyphen"/>to Pills, and take them over night.</p>
+            </div>
+            <div type="part">
+               <head>For Heat and Weakneſs in the Back.</head>
+               <p>Take Earth-Moſs, and boil it in Cream to an Oil, and anoint the Back with it.</p>
+            </div>
+            <div type="part">
+               <head>An Approved Drink to prevent the Plague.</head>
+               <p>Take of the beſt Sack 3 pints, of Rue one handful, boil till it is waſted half away, then ſtrain it, and ſet it over the fire again, putting to it of Long Pepper, and Ginger bruiſed, of each half an ounce, of Nut<g ref="char:EOLhyphen"/>megs ſlic'd, a quarter of an ounce, let it boil
+<pb n="56" facs="tcp:47524:35"/>a little, and take it off from the fire, and put to it of Mithridate 2 penniworth, and as much Treacle, and a quarter of a pint of the beſt Aqua vitae; take 2 ſpoonfuls of it every morning and evening. It likewiſe ſeldom fails in Agues, being taken 2 or 3 times before the Fit comes.</p>
+            </div>
+            <div type="part">
+               <head>For the Gout.</head>
+               <p>Take a pound of Bees-wax, and half a pound of Roſin, of Olibanum 4 ounces, of Litharge of Gold finely powder'd, and White-lead, of each 12 ounces, of Neats-foot Oil a pint. Set the Oil together with the Bees-wax and Roſin over the fire; as ſoon as they are melted put in the Pow<g ref="char:EOLhyphen"/>ders, keeping it continually ſtirring with a ſtick; as ſoon as it is boil'd enough, take it off the fire, and pour it on a board a<g ref="char:EOLhyphen"/>nointed with Neats-foot Oil, and make it into rolls; apply this Plaſter ſpread on Sheeps leather, to the part affected; once a week take of <hi>Caryocoſtinum</hi> the quantity of a large Nutmeg diſſolv'd in Whitewine, keeping your ſelf warm after it; by ap<g ref="char:EOLhyphen"/>plying this Plaſter, and taking the <hi>Caryo<g ref="char:EOLhyphen"/>coſtinum,</hi> there are many which have found very great benefit.</p>
+            </div>
+            <div type="part">
+               <pb n="57" facs="tcp:47524:35"/>
+               <head>To Cure Dulneſs of Hearing.</head>
+               <p>Take the Crum of a Loaf which was work'd up with Carraway ſeeds, and Ju<g ref="char:EOLhyphen"/>niper berries; as ſoon as it is drawn out of the Oven, dip it in ſtrong Spirit of Wine, and apply as warm as may be endur'd, ſo that the ſteam may be received into the Pa<g ref="char:EOLhyphen"/>tients Ear; as ſoon as the Bread is taken away ſtop the Ear with Cotten dip'd in Oil of bitter Almonds and Rue. The ſteam of Pennyroyal, Origanum, Worm<g ref="char:EOLhyphen"/>wood and Cloves has alſo very good effect in curing ſuch as are thick of Hearing.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Tettar.</head>
+               <p>Take an ounce of <hi>Sal Armoniack</hi> rub'd to powder, and mix it with white Soap and freſh Hogs-lard, of each 2 ounces make an Ointment, and anoint the part affected, with it every morning and even<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="part">
+               <head>For a Sore Stomach.</head>
+               <p>Take half a Sheet of Cap Paper, cut it into the ſhape of an Heart, and dip it in Brandy, and old Candle-greaſe melted to<g ref="char:EOLhyphen"/>gether,
+<pb n="58" facs="tcp:47524:36"/>of each an equal quantity, apply warm to the Pit of the Stomach.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Ointment to Cure one that is burnt with Gun-powder.</head>
+               <p>Take an handful of Groundſel, 12 heads of Houſleek, of Gooſe and Chickens dung, of each a pound, bruiſe the Herbs, and mix them very well with the Dungs, then take 2 quarts of Boars greaſe, and boil them all together for a quarter of an hour, ſtrain and keep for your uſe.</p>
+            </div>
+            <div type="part">
+               <head>For a Stich or Bruiſe in the Side.</head>
+               <p>Take of the Kernels of Wallnuts and Hazel-nuts, of each 2 ounces, of Figs and Rue, of each one handful, a raſe of Gin<g ref="char:EOLhyphen"/>ger, half an ounce of Salt, and a ſpoonful of Honey; mix them very well together, and take the quantity of a Nutmeg of it 3 times in a day, and apply it ſpread upon Leather, to the part grieved.</p>
+            </div>
+            <div type="part">
+               <head>For the Stone.</head>
+               <p>Take the Stone that grows in the Gall of an Ox, grate it, and drink of it in White-wine as much as will lie upon a ſix pence; for want of the White-wine you may drink
+<pb n="59" facs="tcp:47524:36"/>it in Poſſet-drink, in which Pellitory of the Wall has been boil'd. Or take the green Weed, which is commonly brought with the Oiſters, waſh it, and dry it to powder of which give the ſame quantity in a large draught of Arſmart Water.</p>
+            </div>
+            <div type="part">
+               <head>A famous Anodyne Gliſter, which gives preſent eaſe in Fits of the Stone.</head>
+               <p>Take Pennyroyal, Centaury, Worm<g ref="char:EOLhyphen"/>wood and Chamomil-flowers, of each an handful; of ſweet Fennel, and Fenugreek-ſeeds, of Juniper and Bay-berries, of each half an ounce, bruiſe them and boil them in a pint and an half of Poſſet-drink to a pint, ſtrain and put to it 2 ounces of Sack, of brown Sugar, and Linſeed Oil, of each 3 ounces.</p>
+            </div>
+            <div type="part">
+               <head>To preſerve a Man from being infected with the Plague.</head>
+               <p>Take of both the ſorts of Aloes, of Cin<g ref="char:EOLhyphen"/>namon and Myrrh, of each 3 drams, of Cloves, Mace, <hi>Lignum</hi> Aloes, Bole Armo<g ref="char:EOLhyphen"/>niack, Maſtich and Camphire, of each a dram, beat them to a powder, and take a ſcruple of it every morning and evening in a Glaſs of Canary.</p>
+            </div>
+            <div type="part">
+               <pb n="60" facs="tcp:47524:37"/>
+               <head>For a Pain and Coldneſs in the Head.</head>
+               <p>Take Storax and Benjamin, of each an ounce, bruiſe them, and quilt them in brown Paper, and apply to the hindermoſt part of the Head.</p>
+            </div>
+            <div type="part">
+               <head>Againſt ſpitting of Blood.</head>
+               <p>Take Mice-dung, rubb'd to powder, and give of it as much as will lie upon a Groat, in a quarter of a pint of the juice of Plantain and Comfry, ſweetned with Sugar, every morning the firſt thing, and at night the laſt thing; continue taking it for a week together.</p>
+            </div>
+            <div type="part">
+               <head>To make the Oil of Toads, of excellent uſe in the Gout, Kings-evil, or any old Sore or Ulcer.</head>
+               <p>Take 6 Toads, boil them in 3 pints of Salad Oil, till they are turned black, then ſtrain the Oil out, and put to it half a pound of Bees-wax; as ſoon as the Bees-wax is melted, pour the Oil into a Pot, and keep for your uſe; in the boiling take care that the Pipkin be cloſe covered.</p>
+            </div>
+            <div type="part">
+               <pb n="61" facs="tcp:47524:37"/>
+               <head>A Famous Water to Clear the Eye-ſight.</head>
+               <p>Take of Aloes, and Sugar Candy, of each 2 drams, of Camphire half a dram, of Red Roſe, and Eyebright-water, of each 3 ounces, ſhake them very well together, and waſh your Eyes with it 3 times aday.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the Falling Sickneſs.</head>
+               <p>Take the powder of Miſſeltoe of the Oak, of Mans Skull prepared, of each one dram; give a ſcruple of it every morning in a quarter of a pint of Paeony-water; give more or leſs according to the age of the Patient.</p>
+            </div>
+            <div type="part">
+               <head>To make Hair to grow.</head>
+               <p>Shave the Head often, and, after ſhaving, bath it well with Brandy, or the Spirit of Honey, and twice every day anoint it with Bears-greaſe.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>R</hi>'s Pills for the Cholick.</head>
+               <p>Take of the Pill <hi>ex duobus,</hi> and <hi>extractum Rudii,</hi> of each 15 grains, <hi>London Laudanum</hi> one grain, make into 5 Pills, with a drop of the Oil of Aniſeeds; before you give
+<pb n="62" facs="tcp:47524:38"/>them, let a Glyſter of <hi>Hiera Picra</hi> be ad<g ref="char:EOLhyphen"/>miniſtred; and after its operation give the Pills. When the paſſage downwards is ſtopt, ſo that nothing can be voided, which of<g ref="char:EOLhyphen"/>ten happens in violent Fits, give the Pati<g ref="char:EOLhyphen"/>ent 3 ounces of Dr. <hi>Lowre</hi>'s Tincture, and about an hour after let him drink 2 quarts of <hi>Epſom</hi> water, diſſolve in the firſt Glaſs an ounce and an half of Glauber's wonderful ſalt; if the 2 quarts do not move him, let him take another quart with another ounce of the Salt: But the firſt 2 quarts ſeldom fail of ſucceſs.</p>
+            </div>
+            <div type="part">
+               <head>To take away Freckles, and Beautify the Skin.</head>
+               <p>Take of the Oil of Tartar, and Oil of ſweet Almonds, of each equal parts, ſhake them well together till they become white; every night going to bed anoint the part with it.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the Shingles.</head>
+               <p>Take the juyce of Houſleek, temper it with a ſufficient quantity of Barley-meal till it comes to the conſiſtence of a Cata<g ref="char:EOLhyphen"/>plaſm, apply it to the part affected, renew<g ref="char:EOLhyphen"/>ing it every 24 hours. Or, take half a pint of Elder-flower Water, and an ounce
+<pb n="63" facs="tcp:47524:38"/>of <hi>Hungary-water,</hi> mix and dab the part with it often.</p>
+            </div>
+            <div type="part">
+               <head>To make a Drink for the Rickets.</head>
+               <p>Take the Roots of Succory, of the Leaves of Marſh-mallows, and Colts-foot, of each 2 ounces, of Scurvygraſs 6 hand<g ref="char:EOLhyphen"/>fulls, of Agrimony, Avens, and Water<g ref="char:EOLhyphen"/>creſſes, of each one, handful, boil theſe in 6 gallons of Wort; when you tun it, hang in it a Bag with theſe tied in it: Take of China-root ſlic'd, and Polypody of the Oak bruiſed, of each 4 ounces, Harts horn, Maiden-hair, and Liquoriſh ſlic'd, of each 3 ounces, of Raiſins of the Sun ſton'd, and Currans bruis'd of each one pound, of Liverwort, and Harts-tongue, of each 4 handfuls, put a Stone into the Bag to keep it from ſwimming a top; in a weeks time it will be fit for uſe, let it be the Childs conſtant drink; it will be better to make but half the quantity at a time.</p>
+            </div>
+            <div type="part">
+               <head>For Bloodſhot, or Inflam'd Eyes.</head>
+               <p>Take one ounce of <hi>Lapis Calaminaris</hi> finely powder'd, of Frogs Spawn Water half a pint, mix them well together, and waſh your Eyes with it 3 or 4 times in a day.</p>
+            </div>
+            <div type="part">
+               <pb n="64" facs="tcp:47524:39"/>
+               <head>For Clammy Humours, which faſten the Eye-lids together.</head>
+               <p>Let the Patient, when he is in Bed, take a little of the Ointment of Tutty, melted in a ſpoon, and anoint his Eye-lids there<g ref="char:EOLhyphen"/>with, they being firſt cloſed together; in the morning let him take ſome Plantain or Roſe-water and waſh it off.</p>
+            </div>
+            <div type="part">
+               <head>By Dr. <hi>Lowre.</hi> To Cure an Exceſſive ſweating ariſing from the vitiated Fer<g ref="char:EOLhyphen"/>mentation of the Blood.</head>
+               <p>Take of Dragons Blood, Nutmegs, Tor<g ref="char:EOLhyphen"/>rified Rhubarb, of each one dram, of Di<g ref="char:EOLhyphen"/>aphoretick Antimony, and Flower of Brim<g ref="char:EOLhyphen"/>ſtone, of each 2 ſcruples, of powder of Maſtich half a dram, of Sal-prunellae 2 drams, mix and make a maſs, with a ſuf<g ref="char:EOLhyphen"/>ficient quantity of Gypreſs Turpentine; make it into Pills of a moderate Size, of which take 4 every night and morning.</p>
+            </div>
+            <div type="part">
+               <pb n="65" facs="tcp:47524:39"/>
+               <head>An approved Medicine to relax Con<g ref="char:EOLhyphen"/>tracted Sinews.</head>
+               <p>Take a Sheeps Head, cut it in two, and being tied together, boil till it is very ten<g ref="char:EOLhyphen"/>der, then lay it in a Diſh, and the Bones being all taken out, put to it of rectified Spirit of Wine, and Oil of Roſes, of each a good quantity, lay it to the part grieved as warm as can be endur'd; repeat with a freſh one every 24 hours, till the Pati<g ref="char:EOLhyphen"/>ent finds benefit by it; with the Sheeps Head bon an handful of Mallows.</p>
+            </div>
+            <div type="part">
+               <head>The Lord <hi>Cheſterfield</hi>'s Excellent Pow<g ref="char:EOLhyphen"/>der to help Delivery.</head>
+               <p>Take of Cummin-ſeeds, Saffron, Grains of Paradiſe, Date-ſtones and white Am<g ref="char:EOLhyphen"/>ber, of each equal parts, reduce it into fine Powder, of which give a ſcruple in extremity in a draught of burnt Claret, or Mace Ale.</p>
+            </div>
+            <div type="part">
+               <head>A Receipt to Cure the Black or Yellow Jaundies, by Dr. <hi>I—n.</hi>
+               </head>
+               <p>Take of the inner rind of Barberry-bark ſlic'd thin one ounce, half a dram of Saf<g ref="char:EOLhyphen"/>fron, of red Saunders half an ounce, in<g ref="char:EOLhyphen"/>fuſe
+<pb n="66" facs="tcp:47524:40"/>a whole night in Whitewine, in which Gads of Steel have been quenched; give a quarter of a pint of it every morn<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a <hi>Teneſmus,</hi> or a continual de<g ref="char:EOLhyphen"/>ſire of going to Stool, without any oc<g ref="char:EOLhyphen"/>caſion.</head>
+               <p>Take an Old Tile, made very black with Smoak, rub it to fine Powder, mix with boiling Vinegar, and apply to the Patients Fundament. Or fill two bags with Whea<g ref="char:EOLhyphen"/>ten Bran, boil them in Whitewine Vine<g ref="char:EOLhyphen"/>gar, and let the Patient ſit ſometimes upon one, and ſometimes upon another as hot as he can endure. Let the following Cly<g ref="char:EOLhyphen"/>ſter be alſo often injected. Take half a pint of the decoction of Burnt Harts-horn, of Oil and Honey of Roſes, of each one ounce, one yolk of an Egg, and a quarter of an ounce of Diaſcordium. If the diſ<g ref="char:EOLhyphen"/>eaſe proceeds from an Ulcer, which you may be aſſur'd of if there is either Matter or Corruption, mingled with the Patients Excrement. Take of Oil of Roſes 2 ounces, of Mucilage of Gum Tragacanth 3 drams, of Aloes and Frankincenſe of each half a dram, mix with White-wax, and make an Ointment, wherein dip Cloths and put up the Fundament.</p>
+            </div>
+            <div type="part">
+               <pb n="67" facs="tcp:47524:40"/>
+               <head>To Cure a Quinſey.</head>
+               <p>Take of the Powder of a Swallows Neſt, and <hi>Album Grecum,</hi> of each an equal quantity, mix with Honey, and apply Plaſter-wiſe to the Patients Throat; waſh his Throat alſo with this Gargariſm, Take of the Leaves of Plantain, Woodſorrel, and Pomegranat-bark, of each a ſmall handful, boil in fair water to a pint, ſtrain and put to it 2 drams of <hi>Sal Prunellae,</hi> Honey of Roſes, and Syrup of Mulberries, of each once ounce. Let the Patient blood in the Arm, take but a little away at a time, and repeat in 12 hours. Once a day give the Patient a Clyſter with <hi>Hiera Picra,</hi> and <hi>Sal Gemma</hi> in it. Cupping-Glaſſes apply'd to the Shoulders, and bleed<g ref="char:EOLhyphen"/>ing under the Tongue, have been often us'd with ſucceſs; let the Patient drink plentifully of Barley-water.</p>
+            </div>
+            <div type="part">
+               <pb n="68" facs="tcp:47524:41"/>
+               <head>To make the famous White Salve, which being applied to the Stomach, cures the Pains and Weakneſs thereof, to the Belly, the Cholick, and to the Back, the Pains of the Kidnies.</head>
+               <p>Take of the beſt Salad Oil 3 pints, of White and Read Lead, of each a pound, of Caſtle-ſoap 12 ounces; incorporate them well together, and boil till the maſs is of a grayiſh colour, then take it and make into Rolls, which will keep good a long time.</p>
+            </div>
+            <div type="part">
+               <head>For a Rupture.</head>
+               <p>Take of Frankincenſe, and Olibanum, of each 2 ounces, Burgundy-pitch, Ma<g ref="char:EOLhyphen"/>ſtich and Camphire, of each half an ounce, of Deers-ſuet, Bees-wax, and Venice-tur<g ref="char:EOLhyphen"/>pentine, of each one ounce, boil them with a pint of Whitewine, to the thick<g ref="char:EOLhyphen"/>neſs of a Salve, ſpread upon Sheeps-leather, and apply to the part.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the Scurvy, by Dr. <hi>C—n.</hi>
+               </head>
+               <p>Take of the Conſerve of Scurvigraſs, and Roman-wormwood, of each 2 ounces,
+<pb n="69" facs="tcp:47524:41"/>of the powder of the Leaves of Ground-Pine, and of the Compound powder of Aron roots, of each 3 drams, of prepar'd Steel half an ounce, of Tartar vitriolated 2 drams, chymical Oil of Saſſafras 6 drops, mix and make an Electuary, with a ſuffi<g ref="char:EOLhyphen"/>cient quantity of Syrup of Oranges, of which take the quantity of a Nutmeg twice a day, with 6 ſpoonfuls of this Ju<g ref="char:EOLhyphen"/>lap. Take of the compound water of Horſe<g ref="char:EOLhyphen"/>radiſh, and of Earth worms, of each 3 ounces, of Scurvigraſs-water half a pint, of Chalybeat wine 4 ounces, of Syrup of Coral 2 ounces; once in a week let the following Bolus be taken: Take a Scruple of <hi>Mercurius Dulcis,</hi> and half a dram of Rhubarb, make a Bolus with Electuary of Saſſafras.</p>
+            </div>
+            <div type="part">
+               <head>For a ſoreneſs, or ſtoppage at the Stomach, proceeding from a great Cold.</head>
+               <p>Take 2 ounces of Deers Suet, of <hi>Sperma Ceti,</hi> and Oil of Mace, of each a dram, of Bees-wax half an ounce, Saffron in Powder half a dram, ſpread upon thin Leather, and lay to the Stomach, drop upon the Plaſter 4 or 5 drops of Oil of Cinnamon, and rub it all over.</p>
+            </div>
+            <div type="part">
+               <pb n="70" facs="tcp:47524:42"/>
+               <head>To Cure the Stone.</head>
+               <p>Take of Filipendula-roots, Winter-Cherries, Aſhen-Keys, and Haws, of each an handful, dry them in an Oven, pow<g ref="char:EOLhyphen"/>der and give a dram at a time, in a draught of Whitewine, twice aday.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Pleuriſie, by Dr. <hi>Lowre.</hi>
+               </head>
+               <p>Let the Patient be blooded on the ſide affected; as ſoon as he is blooded, give him one of theſe Papers of Powder; Take of Crabs-Eyes 2 drams, <hi>Sal prunellae,</hi> and red Poppey-flowers, of each one dram; of vo<g ref="char:EOLhyphen"/>latile Salt of Harts-horn half a dram, mix; the doſe is half a dram every 4 hours, with 6 ſpoonfuls of this Julap; Take of Car<g ref="char:EOLhyphen"/>duus, ſweet Fennel, and red Poppey-water, of each 3 ounces; of Spirit of <hi>Salar<g ref="char:EOLhyphen"/>moniack</hi> 2 drams, Syrup of red Poppies an ounce and an half. Take of Graſs and Eryngo-roots, of each 2 ounces, of Barley and Liquoriſh ſlic'd, of each one ounce, of Raiſins of the Sun ſton'd 2 ounces, boil in 3 pints of water to a quart, ſtrain, and add to it Syrup of Maiden-hair 2 ounces, Sal Prunellae, a dram and an half, let it be the Patients ordinary drink. At night if the Pain is very intenſe, give from 15 to
+<pb n="71" facs="tcp:47524:42"/>20 drops of liquid Laudanum in any proper vehicle.</p>
+            </div>
+            <div type="part">
+               <head>To Cure an <hi>Empyema,</hi> or Impoſthume of the Lungs.</head>
+               <p>Take of Marſhmallow-roots 2 ounces, of Ground Ivy, Colts-foot and Maiden-hair, of each one handful, of Figs, Liquoriſh and Raiſins, of each one ounce and an half, boil them in 3 pints of water to a quart, ſtrain, and ſweeten with Syrup of Colts-foot; being drunk often, it will ri<g ref="char:EOLhyphen"/>pen the Impoſthume, and cauſe it to break ſpeedily. Take likewiſe of <hi>Lohoc Sanum,</hi> Oil <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Almonds, and Balſamick Syrup, of each one ounce, of Syrup of Horehound 2 ounces, mix, and with a Liquoriſh-ſtick, take of it often. As ſoon as the Impoſt<g ref="char:EOLhyphen"/>hume is broke, take of Orris Powder, and Flower of Brimſtone, of each 2 drams, Cypreſs Turpentine, enough to make into Pills, which roll in Liquoriſh-powder, and take 4 of them every Night and Morning, they will both cleanſe, and bring away with eaſe the purulent matter; let the Pa<g ref="char:EOLhyphen"/>tient after each time of taking the Pills, and at any other time when a-dry, drink plentifully of the following Vulnerary de<g ref="char:EOLhyphen"/>coction, which will purifie his Blood, and preſerve his Lungs from being corrupted.
+<pb n="72" facs="tcp:47524:43"/>Take of Sanicle, Mouſe-ear, Agrimony, St John's wort, and Scabious, of each one handful, of Graſs-roots 2 ounces, Ra<g ref="char:EOLhyphen"/>diſhes, or Chick-peaſe half an ounce, Liquoriſh ſlic'd one ounce, boil 'em in 3 pints of water to a quart, ſtrain and ſweeten with Syrup of Ground Ivy. To carry off the Morbifick Matter, it will be convenient once in a week to take ſome gentle Phyſick.</p>
+            </div>
+            <div type="part">
+               <head>For Stomach-worms.</head>
+               <p>Take Turmerick, Long Pepper, and Aloes, of each half an ounce, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wder them, and mix with Hogs-lard, and Treacle, of each equal parts, being very well mix'd, ſow up in a ſquare Bag, and apply to the Pit of the Stomach, keeping it there 9 days, every third day drink a Treacle Poſſet.</p>
+            </div>
+            <div type="part">
+               <head>A very good remedy for an Inflamation of the Eyes.</head>
+               <p>Tak the White of a New-laid Egg, beat it very well with a dram of Alum finely powder'd, dip a fine rag in it, and lay over the Eyes, as ſoon as it grows warm, remove it, and apply a freſh Rag in the ſame manner, continue doing ſo for an
+<pb n="73" facs="tcp:47524:43"/>hour together; if the Inflammation be very great, repeat every night and morning, otherwiſe at night only.</p>
+            </div>
+            <div type="part">
+               <head>A Famous Powder to Cure a Rupture.</head>
+               <p>Take of Clary, and Comfry, of each 2 handfuls, or Knot graſs, Cranes-Bill and Bears-foot, of each one handful, dry them in an Oven, and reduce to a fine Powder, to which add the ſame weight of Powder of Aniſeeds, and Liquoriſh, give a dram of this every morning and evening in a draught of any convenient Liquor for 3 weeks together. Anoint the part affected with this Oil, which, together with the Powder, has prov'd very ſucceſsful. Take the Oil of Swallows, and of Oranges, of each 2 oun<g ref="char:EOLhyphen"/>ces, of the Oil of Chamomil one ounce, ſhake together, and anoint the part.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Cordial-water for Fainting Fits, and a Pain at the Heart.</head>
+               <p>Take of Balm, Mint, Red Sage, and Bor<g ref="char:EOLhyphen"/>rage, of each 2 handfuls, Vipers Graſs one handful, of Aniſeeds 3 ounces, of Cloves, Nutmegs, Ginger, Cinnamon, Cubebs, and Galengal, of each half an ounce, of right <hi>Nants</hi> Brandy one quart, of ſtrong Ale one gallon; cut the Herbs and bruiſe the Spices,
+<pb n="74" facs="tcp:47524:44"/>put them together in an Earthen Pot, and let them ſtand all night cloſe covered, in the morning put them into a Cold Still, and draw off with a quick Fire, let the Still be luted; take 3 or 4 ſpoonfuls of this water ſweetn'd with fine Sugar at any time.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>S</hi>—m<hi>'s</hi> Pectoral Syrup, which Cures all ſorts of Coughs.</head>
+               <p>Take an handful of Maiden-hair, boil it in a quart of water to a pint, ſtrain and put to it of Hyſop and Coltsfoot-water of each a pint, take 2 ounces of Liquoriſh ſlic'd and ſcrap'd, of Aniſeeds bruis'd half an ounce, 6 Blew Figs ſlic'd, of Raiſins of the Sun ſton'd 2 ounces, boil them till the water is waſted to a pint, then ſtrain and put to it 4 ounces of Sugar Candy, and ſet it a boiling again, as ſoon as it grows thick, put to it of Syrup of Violets and Borrage, of each 3 ounces, keep it ſtirring on the fire till it grows thick, then take it off, let it not boil after you have put the Syrup in.</p>
+            </div>
+            <div type="part">
+               <head>To make a Drink which kills the Worms in Children.</head>
+               <p>Take burnt Hartſhorn, Purſlain-ſeeds, Coralina, and St. <hi>John</hi>'s Wort, of each
+<pb n="75" facs="tcp:47524:44"/>equal parts, boil them very well in Spring-water, ſtrain and give a large draught of it every morning faſting, for a week toge<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Gangrene.</head>
+               <p>Take 4 ounces of rectified Spirit of Wine, of Mithridate and <hi>Venice</hi> Treacle, of each one dram, of bay Salt 2 drams, diſſolve them all in the Spirit of Wine, bathe the Gangrene with it very well, and lay over it a Cloth dip'd in it, in 12 hours it will cauſe perfect Fleſh to appear; the Sore muſt be bath'd twice or thrice in the ſpace of 12 hours; let the Sore be well cleans'd be<g ref="char:EOLhyphen"/>fore it is bath'd.</p>
+            </div>
+            <div type="part">
+               <head>For a Bruiſe on the Eyes or Face.</head>
+               <p>Take the White of an Egg, beat it well with Cream, dip Lint in it, and apply to the Part that is bruiſed, it will take out the Blood, and give eaſe in a very ſhort time; renew once in 12 hours.</p>
+            </div>
+            <div type="part">
+               <head>An Experienc'd Remedy for ſuch as are ſubject to Bleeding at the Noſe.</head>
+               <p>Take a dry'd Toad, ſow it in a Bag, and ſow it at the Pit of your Stomach, be<g ref="char:EOLhyphen"/>ing apply'd in a Flux it preſently ſtops it;
+<pb n="76" facs="tcp:47524:45"/>and continued there prevents its return; the Moſs which grows upon a Man's Skull is alſo much commended for ſtanching of Blood.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Pain of the Head; which re<g ref="char:EOLhyphen"/>turns at ſet times, like an Ague.</head>
+               <p>Take 2 ſcruples of Jeſuits Bark, make it into a Bolus, with a ſufficient quantity of Syrup of Gillyflowers, to be repeated every 6 hours; being conſtantly taken for 3 days; it ſeldom fails of ſucceſs.</p>
+            </div>
+            <div type="part">
+               <head>For Eyes that are troubled with an hot Rheum.</head>
+               <p>Take Rue, and ſtamp it with a little White Roſe-water, preſs out the Juice, let it ſtand and ſettle, with the cleareſt of it waſh your Eyes often.</p>
+            </div>
+            <div type="part">
+               <head>A very good Ointment for any hot Swel<g ref="char:EOLhyphen"/>ling or Burn.</head>
+               <p>Take of Unſet Hyſop, of Houſleek, of the inner Rind of Elder, and of Aſh, of each one handful; put them to a quart of thick and ſweet Cream, which ſet over the fire, boyling it gently, and often ſtirring it; let it boil till it comes to an Oil, then take
+<pb n="77" facs="tcp:47524:45"/>from the ſire, and preſs it out; dip a Rag in it, and apply to the Sore, often ſhift<g ref="char:EOLhyphen"/>ing it.</p>
+            </div>
+            <div type="part">
+               <head>For a Stoppage in the Stomach or Langs.</head>
+               <p>Take of Elicampane-root powder'd half an ounce, of Flower of Brimſtone, of the Powder of Liquoriſh, and of Aniſeeds, of each a quarter of an ounce, of clarified Ho<g ref="char:EOLhyphen"/>ney a quarter of a pound, mingle them all together, and take the quantity of a Nut<g ref="char:EOLhyphen"/>meg every night when you go to Bed, drinking ſomething warm after it.</p>
+            </div>
+            <div type="part">
+               <head>A very Effectual Remedy to appeaſe Gouty Pains.</head>
+               <p>Take of the beſt Palm Oil 2 ounces, of Oil of Turpentine, and Oil of Toads, of each one ounce, mix them very well, and with a warm Hand rub the Part affected twice a-day; afterwards to ſtrenghthen the Part, and diſcuſs the remaining Dregs of the Humour, apply a Plaſter of Red Lead. Alſo Opium, diſſolv'd in Spirit of Wine camphorated, has been often found to give relief in the moſt violent tortures.</p>
+            </div>
+            <div type="part">
+               <pb n="78" facs="tcp:47524:46"/>
+               <head>To Cure the Strangury, occaſioned by Bli<g ref="char:EOLhyphen"/>ſtering with Cantharides.</head>
+               <p>Take 3 drams of Gum Tragacanth, which boil in 3 pints of Barley-water to a quart, then ſtrain, and ſweeten it with Syrup of Marſhmallows, and let a draught of it be drunk often.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Sneezing Powder of ſingu<g ref="char:EOLhyphen"/>lar uſe in an Apoplexy.</head>
+               <p>Take of the Root of White Hellebore one dram, of the Flowers of Lilies of the Valley 2 drams, mix and powder them, and with a Quill blow ſome of it up the Noſtrils.</p>
+            </div>
+            <div type="part">
+               <head>A Choice Medicine for the Dropſie, which powerfully evacuates the Watery Hu<g ref="char:EOLhyphen"/>mour.</head>
+               <p>Take of the Powder of Jalap half a dram, of Gambogium 10 grains, of Ginger 4 grains, make into a Bolus, with a ſufficient quanti<g ref="char:EOLhyphen"/>ty of Syrup of Buckthorn, which is to be taken every morning for a Fortnight toge<g ref="char:EOLhyphen"/>ther: If the Bolus cannot be ſwallow'd, you may put the Powders into a quarter of a pint of White-wine, adding to it half an ounce of the Syrup of Buckthorn.</p>
+            </div>
+            <div type="part">
+               <pb n="79" facs="tcp:47524:46"/>
+               <head>To Cure an Aſthma, or ſhortneſs of Breath, by Dr. <hi>H. S.</hi>
+               </head>
+               <p>Take 3 ounces of Linſeed Oil freſh drawn, of Balſamick Syrup one ounce, or Sugar Candy powder'd half an ounce, min<g ref="char:EOLhyphen"/>gle them very well, and give a ſpoonful of it often.</p>
+            </div>
+            <div type="part">
+               <head>To make a Poultis of Turnips, which both ripens, and diſcuſſes any hard Swelling.</head>
+               <p>Take 6 large Turnips, ſcrape them clean, and boil them in pouder'd Beef Broth till they are tender, then take them out and ſcrape them again; and being bruis'd, put them into a Pipkin, with a quarter of a pound of Mutton Suet ſhred ſmall, and an ounce of <hi>Venice</hi> Turpentine; boil them well together, adding 2 ounces of Oil of Roſes, lay this to the part affected twice a-day as hot as can be endur'd; this will in a ſhort time either diſcuſs the Humour, or if it tends to ſuppuration, will both break and heal it.</p>
+            </div>
+            <div type="part">
+               <pb n="80" facs="tcp:47524:47"/>
+               <head>Dr. <hi>J</hi>—'s Powder to prevent Coſtiveneſs, and help Digeſtion.</head>
+               <p>Take Cream of Tartar 2 drams, Tartar vitriolated one dram, mix and divide into 6 papers, of which let one be taken every morning in a meſs of Water Gruel.</p>
+            </div>
+            <div type="part">
+               <head>To make Aſtringent Pills for a Gonorrhea.</head>
+               <p>Take red Coral prepar'd, Maſtich, Bole<g ref="char:EOLhyphen"/>armoniack, and Cuttle-bone, of each 2 ſcruples, of <hi>Crocus Martis</hi> reſtringent one dram, of Ceruſs of Antimony half a dram, make into Pills with <hi>Cypreſs</hi> Turpentine, of which take 3 every night and morning. But firſt let the quantity of a large Nut<g ref="char:EOLhyphen"/>meg be taken of this Electuary every morn<g ref="char:EOLhyphen"/>ing for a fortnight or 3 weeks together. Take of Jalap, Cream of Tartar, <hi>Sal-pru<g ref="char:EOLhyphen"/>nellae,</hi> and Powder of Rhubarb of each 2 drams, of waſht Turpentine 3 drams, of Lenitive Electuary an ounce and an half, moiſten it with Syrup of Buckthorn.</p>
+            </div>
+            <div type="part">
+               <head>To make <hi>China</hi> Broth, an approved Re<g ref="char:EOLhyphen"/>medy for a Conſumption.</head>
+               <p>Take of the beſt <hi>China,</hi> ſlic'd thin, half an ounce, let it ſteep 12 hours in a quart
+<pb n="81" facs="tcp:47524:47"/>of water, then boil it over a gentle fire to the conſumption of half; and take a large Chicken, bruiſe it and boil it in about 2 quarts of water; after it has boil'd a little, put to it the decoction of the <hi>China</hi> Root, together with an handful of Endive, a ſprig of Roſemary, a flake of Mace, and a piece of a Manchet, let them boil till there re<g ref="char:EOLhyphen"/>mains but a pint and an half, of which half a pint is to be taken every morning, and at 5 in the afternoon.</p>
+            </div>
+            <div type="part">
+               <head>For a Bruiſe or Strain.</head>
+               <p>Take of Henbane 2 handfuls, of Dogs<g ref="char:EOLhyphen"/>tongue, Nightſhade, Elicampane, and Cin<g ref="char:EOLhyphen"/>quefoil, of each one handful, bruiſe them, and boil them in 2 quarts of the beſt Sa<g ref="char:EOLhyphen"/>lad Oil; about the latter end of the boiling add half a pint of the beſt Aquavitae, a quarter of a pound of Bees-wax cut into ſmall ſlices; let it boil till it is very green, then ſtrain and keep for your uſe.</p>
+            </div>
+            <div type="part">
+               <head>To make an Ointment which ſpeedily Cures the Itch.</head>
+               <p>Take an handful of the Red or Yellow Dock-roots ſcrap'd, clean and cut into thin ſlices, ſtamp them and put them into half a pound of freſh Butter or Hogs-lard, let
+<pb n="82" facs="tcp:47524:48"/>them boil gently for almoſt an hour, then take from the fire and preſs the Liquor out, and put to it a ſpoonful of Brimſtone pow<g ref="char:EOLhyphen"/>der'd, and half as much Ginger; if you would have it more drying, put to it a ſpoonful of Red Lead finely powder'd, anoint where it is ſore twice a-day.</p>
+            </div>
+            <div type="part">
+               <head>A preſent Remedy for a Pain in the Ears.</head>
+               <p>Take a little Honey, melt it in a Spoon, and drop it into the Ear that aches as warm as may be endur'd, ſtoping the Ear after<g ref="char:EOLhyphen"/>wards with a piece of Black-wooll dip'd in Oil of Bitter Almonds.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Lower</hi>'s Electuary to cure a Cough, accompanied with a tickling Rheum.</head>
+               <p>Take conſerve of Red Roſes, and Hips, of each an ounce and an half, Olibanum finely powder'd 2 drams, of Spirit of Sul<g ref="char:EOLhyphen"/>phur 12 drops, Syrup of White Poppies as much as is ſufficient to make it into a thin Electuary, of which the quantity of a Nut<g ref="char:EOLhyphen"/>meg is to be taken every morning, after<g ref="char:EOLhyphen"/>noon, and at night the laſt thing going to Bed.</p>
+            </div>
+            <div type="part">
+               <pb n="83" facs="tcp:47524:48"/>
+               <head>To make Dr. <hi>M. S.</hi> Steel-Pills, which cer<g ref="char:EOLhyphen"/>tainly cure the Green Sickneſs.</head>
+               <p>Take of Steel prepar'd with Tartar 2 drams, of Aloes and Rhubarb finely pow<g ref="char:EOLhyphen"/>der'd, of each one dram, of the Syrup of the 5 opening Roots, enough to make them into Pills, of which 3 are to be taken every night and morning.</p>
+            </div>
+            <div type="part">
+               <head>To make a Time-water which cures the <hi>Diabetes,</hi> or Piſſing-evil.</head>
+               <p>Take a pound of Quick Lime, put it in<g ref="char:EOLhyphen"/>to a gallon of warm water, ſtirring it very well; let it ſtand 12 hours to ſettle, then ſtrain off the cleareſt, and put to it of Saſ<g ref="char:EOLhyphen"/>ſafras, cut into very thin ſlices, 4 ounces, of Liquoriſh ſlic'd, and Aniſeeds bruis'd, of each 2 ounces, of Raiſins ſton'd 4 ounces, let them ſtand 2 days, then ſtrain and keep for your uſe; take a draught of it every morning, noon and night.</p>
+            </div>
+            <div type="part">
+               <head>To give eaſe in fits of the Stone, and to cure the ſuppreſſion of Urine, which uſually attends them.</head>
+               <p>Take of Snails-ſhells, and Bees, of each an equal quantity, dry them in an Oven
+<pb n="84" facs="tcp:47524:49"/>with a moderate heat, then beat them to a very fine Powder, of which give as much as will lie upon a Sixpence in a quarter of a pint of Bean-Flour water every morning faſting, 2 hours after it; continue this for 3 days together; this has been often found to break the Stone, and to force a ſpeedy paſſage for the Urine.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>T</hi>—'s Diet Drink for the Scurvy.</head>
+               <p>Take of Scurvigraſs, Brook-lime, Wa<g ref="char:EOLhyphen"/>ter-creſſes, Agrimony, Cinquefoil, and Woodſorrel, of each one handful, of Limon and Orange Peels, of each one handful, of Horſe-radiſh-root ſlic'd thin 3 ounces, in<g ref="char:EOLhyphen"/>fuſe 24 hours over warm Embers, in as much ſtrong Beer as will cover them; take alſo of Ginger, Long Pepper, and Aniſeeds bruis'd, of each one ounce, boil them in a quart of water till it comes to a pint; which together with the Spices, put to the former infuſion, being ſtrain'd off clear, adding 2 quarts of White-wine, keep cloſe cover'd for your conſtant drink.</p>
+            </div>
+            <div type="part">
+               <head>To Cure the Dropſie.</head>
+               <p>Take of the Pills of Cochiae the leſſer, <hi>Sal-prunellae,</hi> of each one ſcruple, Gambo<g ref="char:EOLhyphen"/>gium
+<pb n="85" facs="tcp:47524:49"/>6 grains, make into Pills, with <hi>Elixir Proprietatis,</hi> to be taken twice or thrice in a week. Take of Guiacum and Saſſafras, of each 4 ounces, of Winters-bark one ounce, boil in 6 quarts of water to a gallon, ſtrain, and while it is warm pour upon a pound of Quick Lime, let it ſtand 12 hours to ſettle; pour off the clear, and put to it of the tops of Broom and Centaury, of each one hand<g ref="char:EOLhyphen"/>ful, of Horehound 2 handfuls, of Juniper-berries bruiſed, and Gentian-root ſlic'd, of each one ounce; after 2 days infuſion it will be fit for your uſe.</p>
+            </div>
+            <div type="part">
+               <head>For an Inward Bruiſe.</head>
+               <p>Take of Iriſh-ſlate, <hi>Sperma Caeti,</hi> of each half a dram, make into a Bolus with a dram of <hi>Venice</hi> Treacle, to be taken every night, drinking a draught of <hi>Brunſwick</hi> Beer after it.</p>
+            </div>
+            <div type="part">
+               <head>For a Pain of the Side.</head>
+               <p>Take of Stone-Horſe-dung half a pound, infuſe 12 hours in a quart of the diſtilled water of Carduus, ſtrain and ſweeten with Syrup of Violets, drink a draught of it eve<g ref="char:EOLhyphen"/>ry 4 hours, till the Pain be abated.</p>
+            </div>
+            <div type="part">
+               <pb n="86" facs="tcp:47524:50"/>
+               <head>An Experienced Water for a ſore Mouth.</head>
+               <p>Take half a pint of White-wine Vinegar, of Roch Alum the quantity of a Nut, of Red Sage, Columbine, and Violet Leaves, of each a ſmall handful, boil them toge<g ref="char:EOLhyphen"/>ther; about the latter end add a ſpoonful of Honey, ſtrain and ſweeten with a little fine Sugar, and waſh your Mouth with it every morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>To heal a Childs Face which breaks out with a Watery Humour.</head>
+               <p>Take Calves Feet, boil them very well, take off the Fat which ſwims at the top of the Liquor, and mingle it well with Roſe-water, anoint the Childs Face with it of<g ref="char:EOLhyphen"/>ten; let the Child purge once or twice a week with an infuſion of Rhubarb, till it is cur'd.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Preſervative againſt all In<g ref="char:EOLhyphen"/>fectious Diſeaſes.</head>
+               <p>Take Rue and Sage, of each an handful, boil them in 3 pint of Muskadine till it comes to a quart, ſtrain and put to it of Gin<g ref="char:EOLhyphen"/>ger, and Long Pepper in powder, of each an ounce, Nutmegs half an ounce, ſet over
+<pb n="87" facs="tcp:47524:50"/>the fire again, continually ſtirring it; as ſoon as it boils, take off and put to it an ounce of Mithridate, 2 ounces of Treacle, a quarter of a pint of the ſtrongeſt Angelica water, mix and keep it cloſe cover'd; whenever you ſuſpect your ſelf to be in<g ref="char:EOLhyphen"/>fected, go to Bed, and take from one to two ſpoonfuls of it, drinking plentifully of Poſſet-drink made with Marigold-flowers, continue doing ſo every night and morn<g ref="char:EOLhyphen"/>ing for three days ſucceſſively.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>H</hi>—'s Cordial Drops, to be uſed in all Fainting Fits, eſpecially ſuch as are Hyſterical.</head>
+               <p>Take a dram of Camphire, diſſolve in half an ounce of rectified Spirit of Wine, tincture of Caſtor, and Spirit of Lavender, of each 2 drams, mix and give from 10 to 20 drops in a ſpoonful or two of Hyſterick Water; you may give either in the Fit, or juſt before to prevent its coming.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Receipt to make Snail-water.</head>
+               <p>Take of Red Cows Milk, and Snails of each 2 quarts, of Green Broom, Balm, Spear<g ref="char:EOLhyphen"/>mint, Coltsfoot and Dandelion, of each one handful, of Aniſeeds bruis'd, and Liquoriſh
+<pb n="88" facs="tcp:47524:51"/>ſlic'd, of each 2 ounces, of Maiden Hair' Ground Ivy, Scurvigraſs, Meadow-ſweet, and Chamomil, of each one handful, 3 Se<g ref="char:EOLhyphen"/>vil Oranges cut in ſlices, let them ſtand a whole night together, in the morning put them into the Still, with a gallon more of Milk, draw off with a moderate fire, ſwee<g ref="char:EOLhyphen"/>ten with Sugar, and drink of it every Morning, afternoon and night.</p>
+            </div>
+            <div type="part">
+               <head>For a Conſumption.</head>
+               <p>Take of Polypody, Woodſage, and Red Fennel-root, of each one handful, of Hy<g ref="char:EOLhyphen"/>ſop, Betony, and Alehoof, of each 2 hand<g ref="char:EOLhyphen"/>fuls, boil them in a ſufficient quantity of Alewort, ſtrain and drink a draught of it every morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>An Aſtringent Chyſter.</head>
+               <p>Take 12 ounces of the water in which Smiths quench their Iron, diſſolve in it 3 drams of <hi>Venice</hi> Treacle, and 2 drams of Bole Armoniack, give it every day till the Looſeneſs is ſtop'd.</p>
+            </div>
+            <div type="part">
+               <head>An Approved Cataplaſm, to diſſolve any Hard Swelling.</head>
+               <p>Take a pound of Marſhmallow-roots, half a pound of White Lily-roots, of Figs, and
+<pb n="89" facs="tcp:47524:51"/>White Bryony-roots, of each 4 ounces, of Chamomil-flowers 2 handfuls, ſlice them and boil in a ſufficient quantity of Ale, till they are ſoft, then take and ſtamp them, adding of Linſeed, and Fenugreek-ſeed in powder, of each 3 ounces, make a Poultis, and apply to the part twice every day, moiſtning it every time that you apply it, with Linſeed Oil.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Lower</hi>'s Hyſterick Pills.</head>
+               <p>Take of Galbanum, and powder of Myrrh, of each one dram, of Caſtor 4 ſcruples, of Volatile Salt of Amber 2 ſcru<g ref="char:EOLhyphen"/>ples, Aſſa Faetida half a dram, make into Pills with Syrup of Paeony; of which give four twice every day, in 2 or 3 ſpoonfuls of Rue water.</p>
+            </div>
+            <div type="part">
+               <head>To make a Diet-drink for the Scurvy.</head>
+               <p>Take of choice Rhubarb, and Gentian<g ref="char:EOLhyphen"/>root, cut into thin ſlices, of each 2 ounces, Yellow Dock-roots, and young Elder-roots, of each one pound, Ginger, and Aniſeeds bruis'd, of each 2 ounces, Ground Ivy, Cy<g ref="char:EOLhyphen"/>preſs, and Fir-tops, of each 2 handfuls, boil in 6 quarts of water till it comes to a gal<g ref="char:EOLhyphen"/>lon, ſtrain and keep for your uſe.</p>
+            </div>
+            <div type="part">
+               <pb n="90" facs="tcp:47524:52"/>
+               <head>To make Pectoral Pills.</head>
+               <p>Take of the Flowers of Benjamin, and <hi>Sperma Caeti,</hi> of each 2 drams, of Powder of Aniſeeds, and <hi>Japan</hi> Earth, of each a dram and an half, Balſam of Sulphur anci<g ref="char:EOLhyphen"/>ated, what ſuffices to make into Pills, which roll in Liquoriſh powder, and take 3 or 4 every morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>To cauſe Digeſtion.</head>
+               <p>Take an ounce of Cardamoms, half an ounce of Cubebs, a dram of Cinnamon, of Cloves and Aniſeeds, of each a quarter of an ounce, reduce to a fine powder, and with Syrup of Gilliflowers, make into a ſoft Electuary, of which take the quantity of a Nutmeg about an hour after Dinner, drinking a glaſs of White-wine after it.</p>
+            </div>
+            <div type="part">
+               <head>For a Sore Throat.</head>
+               <p>Take of Plantain, and Frogs-ſpawn-wa<g ref="char:EOLhyphen"/>ter, of each 2 ounces, Sugar of Lead a dram, Syrup of Mulberries an ounce, mix and gargle your Throat with it often.</p>
+            </div>
+            <div type="part">
+               <pb n="91" facs="tcp:47524:52"/>
+               <head>To ſtrengthen the Bowels, and ſtop an Im<g ref="char:EOLhyphen"/>moderate Looſeneſs.</head>
+               <p>Take of beſt Rhubarb 2 ſcruples, wrap it in a Paper, and hold it againſt the fire, rub it to powder, and make it into a Bo<g ref="char:EOLhyphen"/>lus with old conſerve of Roſes, adding to it 4 drops of the Spirit of Vitriol, to be ta<g ref="char:EOLhyphen"/>ken every morning and evening till the Looſeneſs is ſtop'd, drinking a draught of the decoction of burnt Hartſhorn after it.</p>
+            </div>
+            <div type="part">
+               <head>An Extraordinary Plaſter, which being apply'd to the Nape of the Neck, pre<g ref="char:EOLhyphen"/>vents the Rheum from falling on the Eyes, or any part of the Head.</head>
+               <p>Take of Gum Tragacanth, Maſtich, Oli<g ref="char:EOLhyphen"/>banum, and Bole Armoniack, of each 3 drams, Mirtle-ſeeds, and Pomegranate-flow<g ref="char:EOLhyphen"/>ers, of each one dram, Gum Elymi 3 drams, <hi>Burgundy</hi> Pitch half a pound <hi>Venice</hi> Tur<g ref="char:EOLhyphen"/>pentine half an ounce, melt the <hi>Burgundy</hi> Pitch and the Gum Elymi together, then put in the other things being powder'd, and laſt of all the Turpentine; ſtir them well together, and make into rolls, apply upon a piece of Sheeps Leather to the nape of the Neck.</p>
+            </div>
+            <div type="part">
+               <pb n="92" facs="tcp:47524:53"/>
+               <head>For the Piles.</head>
+               <p>Take of the Tops of Parſly, of Mullet, and of Elder-buds, of each one handful, boil in a ſufficient quantity of freſh Butter till it looks green, and has extracted the ſmell of the Herbs, ſtrain and anoint the place with it 3 or 4 times aday.</p>
+            </div>
+            <div type="part">
+               <head>An Experienced Remedy for a Sore Throat or Mouth.</head>
+               <p>Take of mild Ale 3 pints, of Celandine one handful, Honey half a pound, Roch Alum enough to make it ſharp, boil to the conſumption of half, taking off the Scum as it ariſes, ſtrain and keep for your uſe. It is a moſt excellent thing for the Small Pox, either in the Mouth or Throat. It is like<g ref="char:EOLhyphen"/>wiſe a preſent remedy for any old Sore or Ulcer, if you put to it of Sage, Hyſop, and Roſemary, of each one handful, and dou<g ref="char:EOLhyphen"/>ble the quantity of the Celandine; after you have well waſh'd the Sore, apply a Pla<g ref="char:EOLhyphen"/>ſter of the Green Salve to it: The Teeth be<g ref="char:EOLhyphen"/>ing rub'd with a Sage leaf dip'd in this water, will in a ſhort time grow white.</p>
+            </div>
+            <div type="part">
+               <pb n="93" facs="tcp:47524:53"/>
+               <head>To make the Green Salve, which heals and cleanſes Wounds in any part of the Body, ripens and diſcuſſes Tumours.</head>
+               <p>Take of Green Tobacco-leaves, of Parſly, Rue, Roſemary, Red Sage, Celandine and Fennel, of each a like quantity; bruiſe the Herbs, and boil them in freſh Butter till they grow black; then put of Virgins Wax and Roſin, of each one ounce, Roch Alum rub'd to powder a quarter of an ounce, fine Sugar 2 ounces; after it has boil'd gently for a little while, ſtrain and pour into an earthen Pot.</p>
+            </div>
+            <div type="part">
+               <head>To make a Gentle Vomit, which will work ſafely and effectually in all caſes where Vomiting is required.</head>
+               <p>Take from one dram to two of White Vitriol, Oxymel of Squils 2 ounces, mix them well together, and give a ſpoonful at a time of it in a draught of Carduus water, give more or leſs according as there is oc<g ref="char:EOLhyphen"/>caſion.</p>
+            </div>
+            <div type="part">
+               <head>For the falling down of the Mother.</head>
+               <p>Take a quart of good old Canary, a hand<g ref="char:EOLhyphen"/>ful of the Tops of young Broom, boil
+<pb n="94" facs="tcp:47524:54"/>them together till there remains but a pint, ſtrain and drink of it, being ſweetn'd with fine Sugar.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>S—n</hi>'s famous Worm-powder.</head>
+               <p>Take of Rhubarb, Coraline, burnt Harts<g ref="char:EOLhyphen"/>horn, and Wormwood-ſeed, of each 2 drams, mix into a fine Powder, mixing with it 6 drops of the Oil of Juniper; give from a ſcruple to a dram, according to the Childs Age, every morning and evening in any convenient Vehicle.</p>
+            </div>
+            <div type="part">
+               <head>To make the red Balſam, which cures any Green Wound, Scald or Burn.</head>
+               <p>Take a quart of the beſt Salad Oil, of Roſemary and Betony-flowers, of the Tops of St. <hi>John</hi>'s Wort, of each 2 handfuls, put them into a Glaſs Bottle, and let it ſtand a whole <hi>Summer</hi> in the heat of the Sun, the Bottle being cloſe ſtop'd, ſtrain and put to the Oil an handful of Alkanet<g ref="char:EOLhyphen"/>roots bruis'd; when you uſe it let it be blood-warm.</p>
+            </div>
+            <div type="part">
+               <pb n="95" facs="tcp:47524:54"/>
+               <head>To make a very fine Cordial-water, which opens the Obſtructions of the Liver and Spleen, expels Wind, ſtrengthens the Heart and Stomach.</head>
+               <p>Take of Aniſeeds, Coriander-ſeeds, Lig<g ref="char:EOLhyphen"/>num-vitae, Elecampane-roots, Liquoriſh, and Rhubarb, of each 2 ounces, of Rai<g ref="char:EOLhyphen"/>ſins of the Sun ſton'd one pound, ſlice the Liquoriſh and Rhubarb, bruiſe the other things, and infuſe for 14 days in 3 quarts of Brandy, let the Glaſs that they are infus'd in ſtand in a warm place, be cloſe ſtop'd, and ſhak'd every day; ſtrain and keep for your uſe; you may take 3 or 4 ſpoonful of it at a-time.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Ointment for Rheumatick, or Bloodſhot-Eyes.</head>
+               <p>Take of freſh Hogs-lard 3 ounces, waſh it firſt in Red Roſe-water, then in White-wine in which Lapis Calaminaris has been often quenched, mix with it an ounce of Tutty prepar'd, of the Blood-ſtone, and Red Coral, of each 2 Scruples, of Aloes Succotrine one ſcruple, make into an Oint<g ref="char:EOLhyphen"/>ment with Fennel-water; if your Eyes are
+<pb n="96" facs="tcp:47524:55"/>very ſore, you muſt put into each corner a piece about the bigneſs of a Pins Head, otherwiſe you need only anoint the edges of your Eyelids with a little of it melted in a Spoon; uſe it only at nights, if it grows dry, moiſten it either with Fennel or Roſe-water.</p>
+            </div>
+            <div type="part">
+               <head>For the Rickets.</head>
+               <p>Take a pound of <hi>May</hi> Butter, of Rue, Chamomil, Mallows and Balm, of each one handful, ſtamp the Herbs with the Butter, and bake in a Pot with brown Bread; as ſoon as it is drawn, preſs out the Liquor, and anoint the Childs Joints and Back with it every morning, and evening keeping it in Bed an hour after each time; continue to anoint the Child till the Liquor is all ſpent.</p>
+            </div>
+            <div type="part">
+               <head>For Stinking Feet.</head>
+               <p>Take Roch Alum, burn it till it be<g ref="char:EOLhyphen"/>comes white, rub it to powder, and ſtrow in the bottom of your Stockings for 3 or 4 days together.</p>
+            </div>
+            <div type="part">
+               <pb n="97" facs="tcp:47524:55"/>
+               <head>To make Dr. <hi>H</hi>—'s Cephalick Pills, which purge the Head, clear and preſerve the Eye-ſight.</head>
+               <p>Take of Aloes Roſata and Pills of Cochiae the greater, of each one dram, of Roſin, of Jalap, and extract of Black Ellebor, of each half a ſcruple, Chymical Oil of Fennel 8 drops; make into Pills with Syrup of Roſes, take 4 or 5 of them over night, once or twice in a Week.</p>
+            </div>
+            <div type="part">
+               <head>An Extraordinary Ointment for Burns or Scalds.</head>
+               <p>Take of Red Dock Leaves, and Mallow Leaves, of each a large handful, 2 Heads of Houſleek, of Green Elder, the Bark being ſcrap'd from it, a ſmall handful; waſh the Herbs and the Elder; which being cut ſmall, boil in a pint and an half of Cream, boil till it comes to an Oil, which as it riſes up take off with a Spoon, afterwards ſtrain, and put to it 3 drams of White Lead powder'd fine.</p>
+            </div>
+            <div type="part">
+               <head>A Medicine for the Stone.</head>
+               <p>Take of the Prickled Holly one handful, dry it and beat it to powder; give of it from one dram to two in a draught of warm White-wine, with a piece of Butter in it; take like<g ref="char:EOLhyphen"/>wiſe 2 handfuls of Chickweed, put it into a piece of Linnen, and apply to the Patients Navel as warm as he can bear it, ſhifting it often.</p>
+            </div>
+            <div type="part">
+               <pb n="98" facs="tcp:47524:56"/>
+               <head>For Coſtiveneſs.</head>
+               <p>Take of the Pulp of Caſſia, newly extract<g ref="char:EOLhyphen"/>ed, one ounce and an half, of <hi>Cremor Tartari</hi> 2 drams, mix and give the quantity of a large Nutmeg every day about an hour before Din<g ref="char:EOLhyphen"/>ner, continue taking it for a Week together.</p>
+            </div>
+            <div type="part">
+               <head>A very good Drink to be uſed in all ſorts of Fevers.</head>
+               <p>Take 2 ounces of burnt Hartſhorn, boil it with a Cruſt of Bread in 3 pints of Water to a quart, ſtrain and put to it of Barley, Cin<g ref="char:EOLhyphen"/>namon-water 2 ounces, Cochinele half a dram, ſweeten it with fine Sugar, and let the Patient as often as he is thirſty drink plentifully of it, rub the Cochinele in a Mortar together with the Sugar.</p>
+            </div>
+            <div type="part">
+               <head>A famous Sternutatory, which quickens the Senſes, and preſerves the Head from all Diſeaſes pro<g ref="char:EOLhyphen"/>ceeding from Cold.</head>
+               <p>Take of Aſarabacca-root one dram, of Ca<g ref="char:EOLhyphen"/>ſtor one ſcruple, of Nutmegs, Roſemary and Lavender-flowers, of each one dram, make it into a very fine Powder, uſing it as often as you pleaſe.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Running Sore, which comes either in the Legs, or any other part of the Body.</head>
+               <p>Take of the Root of round Bithworth, and of Sugar Candy, of each 2 ounces, ſlice the
+<pb n="99" facs="tcp:47524:56"/>Root, and bruiſe the Candy, boil in a pint and an half of White-wine till it comes to a pint, then take from the fire, keeping it cloſe cover'd; as ſoon as it is cold, ſtrain and waſh the Sore with it twice every day: When the Sore is well cleas'd, take a piece of Lead, beat it very thin, and being prick'd full of holes, put into Quickſilver, and rub it with a Rag till it is ſilver'd over, apply to the Sore inſtead of a plaſter, continuing the Water till the part is quite well. A Gentle Purge or two will ve<g ref="char:EOLhyphen"/>ry much facilitate the Cure by carrying off the Cauſe.</p>
+            </div>
+            <div type="part">
+               <head>An Effectual Wriſt Plaſter for all ſorts of Agues.</head>
+               <p>Take an handful of Rue, half an ounce of Olibanum, of Bay Salt and White-wine Vine<g ref="char:EOLhyphen"/>gar, of each 2 Spoonfuls, ſtamp and mix them well together, and apply to the Wriſts 3 or 4 hours before the return of the Fit; let the Patient take alſo juſt before the coming of the Fit, of grains of Paradiſe, and Virginian Snakeweed, of each half a dram, made into a Bolus with <hi>Venice</hi> Treacle, and let him ſweat plentifully.</p>
+            </div>
+            <div type="part">
+               <head>To make Lozenges of Rhubarb, which ſtrengthen the Stomach, open the Obſtructions of the Liver and Spleen.</head>
+               <p>Take half an ounce of Rhubarb powder'd fine, 4 ounces of Sugar, of the Mucilage of Gum Tragacanth diſſolv'd in Roſewater, what ſuffices to make into Lozenges.</p>
+            </div>
+            <div type="part">
+               <pb n="100" facs="tcp:47524:57"/>
+               <head>A very agreable Purge for ſuch as abound with Flegm, or Choler.</head>
+               <p>Take 2 Drams of Senna, of Mechoacan and Rhubarb ſlic'd, of each one dram, of Coriander Seeds bruis'd one dram, Tamarinds a quarter of an ounce, infuſe in a quarter of a pint of White-wine, for 12 hours, ſtrain and add to it of Syrup of Buckthorn, and Roſes, of each half an ounce; mix and give in the morning faſting, increaſe or diminiſh the quan<g ref="char:EOLhyphen"/>tities according to its operation.</p>
+            </div>
+            <div type="part">
+               <head>For the Whites, or any other Flux.</head>
+               <p>Take half an ounce of Diaſcordium, of <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> Treacle and candied Ginger, of each 3 drams, of Red Coral, Dragons Blood, and Pomegranat-peel, of each 2 drams, <hi>Crocus Martis,</hi> aſtringent, one dram, make into a ſoft Electuary with Syrup of Coral, of which give the quantity of a Nutmeg every morning, at five in the afternoon, and at night the laſt thing, drinking after it 6 ſpoonfuls of the in<g ref="char:EOLhyphen"/>fuſion of Red Roſes, made acid with Spi<g ref="char:EOLhyphen"/>rit of Vitriol. Before the Party makes uſe of the Electuary, let her be purged twice or thrice with ſome proper Phyſick.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>O</hi>—'s Stomatick Electuary, being a moſt Excellent Medicine ſuch as are of a Cold Conſtitution.</head>
+               <p>Take 2 ounces of the Conſerve of <hi>Roman</hi> Wormwood, of Candied Ginger half an ounce,
+<pb n="101" facs="tcp:47524:57"/>of Cinnamon 2 drams, of the leſſer Galen<g ref="char:EOLhyphen"/>gal half an ounce, make into an Electuary with Syrup of Wormwood; the doſe is the quantity of a Nutmeg an hour before Dinner, taking 6 ſpoonfuls of Gentian Wine af<g ref="char:EOLhyphen"/>ter it.</p>
+            </div>
+            <div type="part">
+               <head>For a Pain or Heat of the Back.</head>
+               <p>Take 3 drams of Red Saunders, an hand<g ref="char:EOLhyphen"/>ful of Red Roſe Leaves, ſteep a whole night in a pint of Roſe-water, ſtrain and waſh your Back with the Tincture twice aday; after once or twice uſing you will find the Heat to diminiſh, and your Back to be greatly re<g ref="char:EOLhyphen"/>freſh'd.</p>
+            </div>
+            <div type="part">
+               <head>For a Speck or Film in the Eye.</head>
+               <p>Take a New-laid-Egg, roaſt it till it is hard, ſlice it and take the Yolk out, putting in its place a dram of burnt Alum, and 20 Wood<g ref="char:EOLhyphen"/>lice; tye the halves together in a thin piece of Coth, and preſs the Juice out betwixt your Fingers, drop 2 drops of the Juice into the Eye that is grieved, twice aday; the Party muſt lie a quarter of an hour upon his Back after each time.</p>
+            </div>
+            <div type="part">
+               <head>For a Bruiſe in the Members.</head>
+               <p>Take an handful of Harts-tongue-leaves, dry them in a Paper before the Fire, beat them to powder, and with Oil of Roſes make a Ca<g ref="char:EOLhyphen"/>taplaſm,
+<pb n="102" facs="tcp:47524:58"/>to be apply'd to the part affected, re<g ref="char:EOLhyphen"/>newing it every 24 hours.</p>
+            </div>
+            <div type="part">
+               <head>For the Itch.</head>
+               <p>Take of the Ointment of the Roots of the ſharp pointed Dock 2 ounces, <hi>Sal Prunellae,</hi> and Flower of Brimſtone, of each 3 drams, mix and make an Ointment with a few drops of Oil of Rhodium to perfume it, to be us'd eve<g ref="char:EOLhyphen"/>ry morning and evening. A decoction of To<g ref="char:EOLhyphen"/>bacco Stalks, either in Urin or Vinegar, hath alone cured divers.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Gargle to preſerve the Teeth, and pre<g ref="char:EOLhyphen"/>vent the Tooth-ach.</head>
+               <p>Take of Pomegranat-bark and Cinquefol<g ref="char:EOLhyphen"/>root, of each half an ounce, of Vervein an hand<g ref="char:EOLhyphen"/>ful, of Galls and Acrons, of each 2 drams, of Alum the quantity of a Nutmeg; boil in White-wine Vinegar, ſtrain and waſh your Mouth with it every morning.</p>
+            </div>
+            <div type="part">
+               <head>For rotten and Scorbutick Gums.</head>
+               <p>Take of the Powder of Myrrh, and To<g ref="char:EOLhyphen"/>bacco-aſhes, of each 2 drams, of Alum one dram, of Bole Armoniack and Dragons-blood, of each a dram and an half, Hony of Roſes 3 ounces, Spirit of Vitriol enough to make it acid, rub your Gums every morning, and at night when you go to bed.</p>
+            </div>
+            <div type="part">
+               <pb n="103" facs="tcp:47524:58"/>
+               <head>For Convulſive Fits.</head>
+               <p>Take of Red Nettle Seeds, and of Peacocks<g ref="char:EOLhyphen"/>dung, of each equal parts, mix and give to a Child as much as will lie upon a Sixpence eve<g ref="char:EOLhyphen"/>ry morning, in 2 or 3 ſpoonfuls of Poeony or Blackcherry-water, continue giving for a Month or ſix Weeks together at leaſt.</p>
+            </div>
+            <div type="part">
+               <head>An Approved Medicine for the Stone, which is alſo very prevalent in Convulſive and Paralytical af<g ref="char:EOLhyphen"/>fects.</head>
+               <p>Take 6 pound of Blackcherries, ſtamp them in a Mortar till the Kernels are bruis'd, then take of the Powder of Amber, and of Coral prepar'd, of each 2 ounces; put them with the Cherries into a Still, and with a gentle fire; draw off the Water, which if you take for the Stone, mix a dram of the Powder of Amber with a ſpoonful of it, drinking 3 or 4 ſpoon<g ref="char:EOLhyphen"/>ful after it; if for the Palſie or Convulſion, take 4 ſpoonfuls without adding any thing, in the morning faſting.</p>
+            </div>
+            <div type="part">
+               <head>For a Bruiſe.</head>
+               <p>Take the Powder of Jet, and let the Pati<g ref="char:EOLhyphen"/>ent drink of it as much as will lie upon a Six<g ref="char:EOLhyphen"/>pence every morning in a draught of any con<g ref="char:EOLhyphen"/>venient Liquor, till ſuch time as he is perfect<g ref="char:EOLhyphen"/>ly well: Or take the tender Sprigs of an Oak, dry and beat to Powder, of which give the ſame quantity in the ſame manner.</p>
+            </div>
+            <div type="part">
+               <pb n="104" facs="tcp:47524:59"/>
+               <head>An Excellent Cataplaſm to be apply'd to any part that is Bruis'd.</head>
+               <p>Take of the beſt Salad or Neatsfoot Oil, of each half a pint, of Honey and Turpentine, of each 2 ounces, or Bole Armoniack powder'd 6 drams, Hogs-lard 4 ounces, of White-wine Vinegar half a pound; let them boil together in a Pipkin; about the latter end add of Bean or Wheat-flower, enough to make it thick, ſpread and apply warm to the place that is hurt, removing once in 12 hours.</p>
+            </div>
+            <div type="part">
+               <head>For St. <hi>Anthony</hi>'s Fire.</head>
+               <p>Take of Sengreen and Cream, of White-wine Vinegar, and Boars Liver dry'd and powder'd, of each equal parts, beat them well together, and with the crumbs of Whitebread make of the ſame thickneſs as a Poultis, apply to the part, renewing it every 12 hours.</p>
+            </div>
+            <div type="part">
+               <head>To make Captain <hi>Green</hi>'s Famous Powder, which cures Cancers of the Mouth, faſtens looſe Teeth, heals any old Sore or <g ref="char:V">Ʋ</g>lcer; and being with a Feather drop'd into weak and ſore Eyes, mightily ſtrengthens them.</head>
+               <p>Take an ounce of Camphire ſcrap'd very thin, 4 ounces of Copperas rub'd to powder, put them both together into a Crucible, and calcine them with a moderate fire; let the Cru<g ref="char:EOLhyphen"/>cible be very cloſe cover'd; as ſoon as it is cal<g ref="char:EOLhyphen"/>cin'd enough it will become hard, then take the
+<pb n="105" facs="tcp:47524:59"/>Pot from the fire; which as ſoon as it is cold break to pieces, and take out what was con<g ref="char:EOLhyphen"/>tain'd in it, rub it to a fine powder, and mingle with 4 ounces of Bole Armoniack likewiſe fine<g ref="char:EOLhyphen"/>ly powder'd: When you have occaſion to uſe the Powder, take half an ounce of it, put it into a Baſon, and pour upon it a quart of boiling water; as ſoon as the water is cold, put it to<g ref="char:EOLhyphen"/>gether with the Powder into a Bottle, and uſe it twice aday; after each time of uſing ſhake the Bottle; this water being injected, in a ſhort time heals any ſort of Fiſtule.</p>
+            </div>
+            <div type="part">
+               <head>For the Black Jaundice.</head>
+               <p>Take an handful of the long Leaves which grow upon the Artichoke ſtalks, put them into a Pot with 3 pints of Ale, let the Pot ſtand in a warm place, cloſe cover'd for 12 hours, take half a pint of the Liquor, with a quarter of a pint of White-wine every morning faſting, for 9 mornings ſucceſſively; let a dram of Saffron, tied in a Rag, be hung in the Pot; the Leaves muſt be bruis'd before they are put into the Ale.</p>
+            </div>
+            <div type="part">
+               <head>An Electuary for a Cough or great Cold.</head>
+               <p>Take of Virgins Honey clarified, and ſtrong Ale Wort, of each a pint, of the beſt Mala<g ref="char:EOLhyphen"/>ga Sack half a pint, of the Juice of Liquoriſh 4 ounces, boil them together almoſt an hour, then take from the fire, and put to it of the Powder of Elicampane, Orris-root, and Benja<g ref="char:EOLhyphen"/>min of each half an ounce, mix and take a
+<pb n="106" facs="tcp:47524:60"/>ſpoonful of it at any time when you are troubled with your Cough.</p>
+            </div>
+            <div type="part">
+               <head>For a Child that hath the Falling-Sickneſs.</head>
+               <p>Take of Dill, Featherfew and Savin, of each a ſmall handful, bruiſe them, and fry them in half a pint of the beſt Salad Oil, ſtrain out the Oil, and anoint the child's Stomach with it every morning and evening; apply the Herbs alſo to the Child's Stomach as warm as you think it is able to bear them.</p>
+            </div>
+            <div type="part">
+               <head>A Soveraign Oil for the Numb Palſie.</head>
+               <p>Take a Fox new kill'd, caſe him, and bowel him, and put into his Belly of Dill, Mug<g ref="char:EOLhyphen"/>wort, Chamomil, Ground-Pine, Southernwood, Red Sage, Origanum, Hops, Roſemary, Balm, Betony, Sweet Marjoram, and Lavender-flow<g ref="char:EOLhyphen"/>ers, of each one handful, let them be all well bruis'd; take alſo of the Oils of Rue, Caſtor, and Chamomil, of each 4 ounces, mix the Oils with the Herbs; as ſoon as you have put the Herbs in, ſew up his Belly cloſe, and roaſt him with a quick fire, ſave the Oil that drops from him, with which anoint the part twice aday, rubbing it well in over a Chafingdiſh of Coals.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>Lower</hi>'s Gargariſm, which cools all Inflammations of the Throat.</head>
+               <p>Take of Frogs Spawn, and Plantain Water, of each 2 ounces, Sugar of Lead one dram, Sy<g ref="char:EOLhyphen"/>rup
+<pb n="107" facs="tcp:47524:60"/>of Mulberries one ounce, mix and waſh your Throat with it often.</p>
+            </div>
+            <div type="part">
+               <head>For the Worms in Children.</head>
+               <p>Take of Mithridate and Honey, of each one Penyworth, Oil of Mace 2 Penyworth, melt them together, and ſpread upon Sheeps Leather cut in the wape of an Heart; Oil of Savin and Wormwood, of each 6 drops, of Aloes and Saffron in powder, of each one dram, rub the Oils, and ſtrow the Powders all over the Plaſters, apply it, being warm'd to the Child's Stomach with the point upwards.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>L</hi>'s Cataplaſm, which ripens Tumours, and cures Inflammations.</head>
+               <p>Take of Marſhmallow-roots, half a pound, of White Lily Roots a quarter of a pound, of Figs, and White Bryony-roots, of each 2 ounces, of Chamomil-flowers one handful, boil in Ale-wort till they are ſoft, ſtamp them in a Mortar, and mix with Linſeed and Fenugreen<g ref="char:EOLhyphen"/>ſeed in powder, of each an ounce, make in<g ref="char:EOLhyphen"/>to a Poultis, to be apply'd warm to the part affected, put on a freſh one every 12 hours; every time that you apply it moiſten it with Linſeed Oil newly drawn; let the Roots be cut into thin ſlices before you boil them in the Ale.</p>
+            </div>
+            <div type="part">
+               <pb n="108" facs="tcp:47524:61"/>
+               <head>For Eyes that are troubled with a Hot Rheum.</head>
+               <p>Take an handful of Rue, 3 ounces of White-wine, ſtamp them together, ſtrain out the Juice, let it ſtand to ſettle, and with the cleareſt of it waſh your Eyes every morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>For a Conſumption of the Lungs.</head>
+               <p>Take 50 Snails without their Shells, 4 hand<g ref="char:EOLhyphen"/>fuls of Ground Ivy, the Whites of 9 Newlaid-Eggs, of Whitebread-crumbs one pound, 4 Nutmegs ſlic'd, 2 Orange Peels, a gallon of Cows Milk, a quart of Sack, put them into a Roſe Still, and draw off with a moderate fire; take a quarter of a pint of the water twice aday ſweetned with Balſamick Syrup.</p>
+            </div>
+            <div type="part">
+               <head>To make Dr. <hi>Lower</hi>'s Pills, which open Obſtructi<g ref="char:EOLhyphen"/>ons, cauſe a good Complexion, and ſtrengthen the Stomach.</head>
+               <p>Take a dram and an half of the Stomach Pills, with the Gums, Gentian-root powder'd one dram, Salt of Wormwood half a dram, Steel prepar'd with Sulphur 2 drams, make into Pills, with a ſufficient quantity of <hi>Elixir Proprietatis,</hi> of which take 3 every night and morning.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:47524:61"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
